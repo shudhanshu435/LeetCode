@@ -1,49 +1,42 @@
 # Reverse Bits
 ## Easy 
 <div class="problem-statement">
-                <p></p><div><span style="font-size:18px">Given a non-negative integer&nbsp;<strong>n</strong>. Reverse the bits of&nbsp;<strong>n</strong>&nbsp;and print the number obtained after reversing the bits. </span></div>
+                <p></p><p><span style="font-size:18px">Given a <strong>32 bit number X</strong>, <strong>reverse </strong>its binary form and print the answer in decimal.</span></p>
 
-<div><span style="font-size:18px"><strong>Note:</strong>&nbsp; The actual binary representation of the number is being considered for reversing the bits, no leading 0’s are being considered.</span></div>
+<p><span style="font-size:18px"><strong>Example 1:</strong></span></p>
 
-<div>&nbsp;</div>
-
-<div><strong><span style="font-size:18px">Example 1:</span></strong></div>
-
-<pre><span style="font-size:18px"><strong>Input : </strong>
-N = 11
+<pre><span style="font-size:18px"><strong>Input:</strong>
+<strong>X = </strong>1
 <strong>Output:</strong>
-13
+2147483648 
 <strong>Explanation:</strong>
-(11)<sub>10</sub> = (1011)<sub>2</sub>.
-After reversing the bits we get:
-(1101)<sub>2</sub> = (13)<sub>10</sub>.</span></pre>
+Binary of 1 in 32 bits representation-
+00000000000000000000000000000001
+Reversing the binary form we get, 
+10000000000000000000000000000000,
+whose decimal value is 2147483648.</span></pre>
 
-<p><strong><span style="font-size:18px">Example 2:</span></strong></p>
+<p><span style="font-size:18px"><strong>Example 2:</strong></span></p>
 
-<pre><span style="font-size:18px"><strong>Input : </strong>
-N = 10
+<pre><span style="font-size:18px"><strong>Input:</strong>
+<strong>X = </strong>5
 <strong>Output:</strong>
-5
+</span><span style="font-size:18px">2684354560</span> <span style="font-size:18px">
 <strong>Explanation:</strong>
-(10)<sub>10</sub> = (1010)<sub>2</sub>.
-After reversing the bits we get:
-(0101)<sub>2</sub> = (101)<sub>2</sub>
-        = (5)<sub>10</sub>.</span></pre>
+Binary of 5 in 32 bits representation-
+00000000000000000000000000000101
+Reversing the binary form we get, 
+10100000000000000000000000000000,
+whose decimal value is 2684354560.</span>
+</pre>
 
-<div><strong><span style="font-size:18px">Your task:</span></strong></div>
+<p><span style="font-size:18px"><strong>Your Task:</strong></span><br>
+<span style="font-size:18px">You don't need to read input or print anything. Your task is to complete the function <strong>reversedBits()</strong> which takes an Integer X as input and returns the answer.</span></p>
 
-<div><span style="font-size:18px">You don't need to read input or print anything. Your task is to complete the function reverseBits() which takes an integer N as input and returns the number obtained after reversing bits.</span></div>
+<p><span style="font-size:18px"><strong>Expected Time Complexity:</strong> O(log(X))<br>
+<strong>Expected Auxiliary Space:</strong> O(1)</span></p>
 
-<div>&nbsp;</div>
-
-<div><span style="font-size:18px"><strong>Expected Time Complexity :</strong> O(number of bits in the binary representation of N)</span></div>
-
-<div><span style="font-size:18px"><strong>Expected Auxiliary Space :</strong>&nbsp; O(1)</span></div>
-
-<div>&nbsp;</div>
-
-<div><span style="font-size:18px"><strong>Constraints :</strong></span></div>
-
-<div><span style="font-size:18px">1 ≤ N ≤ 10<sup>9</sup></span></div>
+<p><span style="font-size:18px"><strong>Constraints:</strong></span><br>
+<span style="font-size:18px">0 &lt;= X &lt; 2<sup>32</sup> </span></p>
  <p></p>
             </div>
