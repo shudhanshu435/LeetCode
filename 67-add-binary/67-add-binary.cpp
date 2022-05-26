@@ -1,31 +1,54 @@
-class Solution
-{
+class Solution {
 public:
-    string addBinary(string a, string b)
-    {
-        string ans = "";
-        int i = a.length() - 1, j = b.length() - 1;
-        int carry = 0, sum = 0;
-
-        while (i >= 0 or j >= 0)
-        {
-            if (i >= 0)
-                sum += a[i--] - '0';
-            if (j >= 0)
-                sum += b[j--] - '0';
-
-            sum += carry;
-
-            ans += to_string(sum % 2);
-
-            carry = sum > 1 ? 1 : 0;
-            sum = 0;
+    string addBinary(string a, string b) {
+        int carry=0;
+        string ans="";
+        reverse(a.begin(),a.end());
+        reverse(b.begin(),b.end());
+        
+        int t=max(a.length(),b.length());
+        int k=a.length();
+        int m=b.length();
+        while(k++<m)a.append("0");
+        while(m++<k)b.append("0");
+        int i=0;
+        while(t){
+            if(a[i]=='1'&& b[i]=='1'){
+                if(carry==0){
+                    ans+= "0";
+                    carry=1;
+                }
+                else{
+                    ans+= "1";
+                    carry=1;
+                }
+            }
+            else if((a[i]=='0'||a[i]==' ') && (b[i]=='0'||b[i]==' ')){
+                if(carry==0){
+                    ans+= "0";
+                    carry=0;
+                }
+                else{
+                    ans+= "1";
+                    carry=0;
+                }
+            }
+            else{
+                if(carry==0){
+                    ans+= "1";
+                    carry=0;
+                }
+                else{
+                    ans+= "0";
+                    carry=1;
+                }
+            }
+            t--;
+            i++;
+            
         }
-
-        if (carry)
-            ans += to_string(carry);
-
-        reverse(begin(ans), end(ans));
+        if(carry==1)ans+="1";
+        reverse(ans.begin(),ans.end());
         return ans;
     }
 };
