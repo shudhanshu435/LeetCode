@@ -1,5 +1,5 @@
 # Product array puzzle
-## Easy 
+##  Easy 
 <div class="problem-statement">
                 <p></p><p><span style="font-size:18px">Given an array <strong>nums[]</strong> of size <strong>n</strong>, construct a Product Array <strong>P</strong> (of same size n) such that<strong> P[i]</strong> is equal to the product of all the elements of <strong>nums</strong> except nums[i].</span></p>
 
