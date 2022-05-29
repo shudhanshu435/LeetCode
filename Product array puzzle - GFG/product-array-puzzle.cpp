@@ -15,7 +15,7 @@ class Solution{
     // return the Product vector P that hold product except self at each index
     vector<long long int> productExceptSelf(vector<long long int>& nums, int n) {
        
-        //code here   
+        //code here     
         vector<long long int>vec;
         for(int i=0;i<n;i++){
             long long int m=1;
