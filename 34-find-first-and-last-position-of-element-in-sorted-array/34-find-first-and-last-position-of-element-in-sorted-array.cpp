@@ -1,59 +1,41 @@
-class Solution
-{
+class Solution {
 public:
-    int binarySearch(vector<int> &nums, int x, int low, int high)
-    {
-        while (low <= high)
-        {
-            int mid = low + (high - low) / 2;
-            if (nums[mid] == x)
-                return mid;
-            if (nums[mid] < x)
-                low = mid + 1;
-            else
-                high = mid - 1;
+    
+    int first(vector<int>vec , int tar){
+        int l=0;
+        int r=vec.size()-1;
+        int mid=0;
+        int ans=-1;
+        while(l<=r){
+            mid=l+(r-l)/2;
+            if(vec[mid]==tar){
+                ans=mid;
+                r=mid-1;
+            }
+            else if(vec[mid]>tar)r=mid-1;
+            else l=mid+1;
         }
-        return -1;
+        return ans;
     }
-
-    vector<int> searchRange(vector<int> &nums, int target)
-    {
-        int siz = nums.size();
-        vector<int> vec;
-        int index = binarySearch(nums, target, 0, siz - 1);
-        if (index == -1)
-        {
-            vec.push_back(-1);
-            vec.push_back(-1);
-            return vec;
+    
+    int last(vector<int>vec , int tar){
+        int l=0;
+        int r=vec.size()-1;
+        int mid=0;
+        int ans=-1;
+        while(l<=r){
+            mid=l+(r-l)/2;
+            if(vec[mid]==tar){
+                ans=mid;
+                l=mid+1;
+            }
+            else if(vec[mid]>tar)r=mid-1;
+            else l=mid+1;
         }
-        int t = index;
-
-        for (int i = index; i >= 0; i--)
-        {
-            if (nums[i] == target)
-            {
-                t = i;
-            }
-            else if (nums[i] < target)
-            {
-                break;
-            }
-        }
-        vec.push_back(t);
-        for (int i = index; i < siz; i++)
-        {
-            if (nums[i] == target)
-            {
-                t = i;
-            }
-            else if (nums[i] > target)
-            {
-                break;
-            }
-        }
-        vec.push_back(t);
-
-        return vec;
+        return ans;
+    }
+    vector<int> searchRange(vector<int>& nums, int target) {
+        return {first(nums,target),last(nums,target)};
+        
     }
 };
