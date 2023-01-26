@@ -1,7 +1,6 @@
 # Case-specific Sorting of Strings
-## Medium 
-<div class="problem-statement">
-                <p></p><p><span style="font-size:18px">Given a string <strong>S </strong>consisting of <strong>uppercase </strong>and <strong>lowercase </strong>characters. The task is to <strong>sort </strong>uppercase and lowercase letters <strong>separately </strong>such that if the i<sub>th</sub> place in the original string had an Uppercase character then it should not have a lowercase character after being sorted and vice versa.</span></p>
+## Medium
+<div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given a string <strong>S </strong>consisting of <strong>only</strong>&nbsp;<strong>uppercase </strong>and <strong>lowercase </strong>characters. The task is to <strong>sort </strong>uppercase and lowercase letters <strong>separately </strong>such that if the i<sub>th</sub> place in the original string had an Uppercase character then it should not have a lowercase character after being sorted and vice versa.</span></p>
 
 <p><strong><span style="font-size:18px">Example 1:</span></strong></p>
 
@@ -25,12 +24,11 @@ with the same case of character will
 result in output as birDKs.</span></pre>
 
 <p><span style="font-size:18px"><strong>Your Task:</strong><br>
-You only need to complete the function <strong>caseSort </strong>that <strong>returns </strong>sorted <strong>string</strong>.</span></p>
+You only need to complete the function <strong>caseSort </strong>that takes&nbsp;a string str and length of the string n and&nbsp;<strong>returns </strong>sorted <strong>string</strong>.</span></p>
 
-<p><span style="font-size:18px"><strong>Expected Time Complexity:&nbsp;</strong>O(N*Log(N)).<br>
+<p><span style="font-size:18px"><strong>Expected Time Complexity:&nbsp;</strong>O(Nlog(N)).<br>
 <strong>Expected Auxiliary Space:&nbsp;</strong>O(N).</span></p>
 
 <p><span style="font-size:18px"><strong>Constraints:</strong> </span><br>
-<span style="font-size:18px">1 ≤ N ≤ 10<sup>3</sup></span></p>
- <p></p>
-            </div>
+<span style="font-size:18px">1 ≤ N ≤ 10<sup>5</sup></span></p>
+</div>
