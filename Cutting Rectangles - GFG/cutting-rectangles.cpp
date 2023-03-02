@@ -12,8 +12,8 @@ public:
     vector<long long int> minimumSquares(long long int L, long long int B)
     {
         // code here
-        if(B%L==0)return {B/L,L};
-        if(L%B==0)return {L/B,B};
+        // if(B%L==0)return {B/L,L};
+        // if(L%B==0)return {L/B,B};
         long long int g=__gcd(L,B);
         return {(L/g)*(B/g),g};
     }
