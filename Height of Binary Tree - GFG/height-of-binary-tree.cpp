@@ -98,16 +98,28 @@ struct Node
 */
 class Solution{
     public:
+    pair<int,int>diameterFast(Node* root){
+        if(!root){
+           return make_pair(0,0); 
+        }
+        
+        pair<int,int>left=diameterFast(root->left);
+        pair<int,int>right=diameterFast(root->right);
+        
+        int l=left.first;
+        int r=right.first;
+        int both=left.second+right.second+1;
+        
+        pair<int,int>ans;
+        ans.first=max(l,max(r,both));
+        ans.second=max(left.second,right.second)+1;
+        
+        return ans;
+    }
     //Function to find the height of a binary tree.
     int height(struct Node* node){
         // code here 
-        if(node==NULL)return 0;
-        
-        int left=height(node->left);
-        int right=height(node->right);
-        
-        int ans=max(left,right)+1;
-        return ans;
+        return diameterFast(node).second;
     }
 };
 
