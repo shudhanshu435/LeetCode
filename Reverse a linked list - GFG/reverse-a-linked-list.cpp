@@ -38,11 +38,17 @@ class Solution
         // code here
         // return head of reversed list
         if(!head || !head->next)return head;
-        Node* newnode = reverseList(head->next);
-        head->next->next=head;
-        head->next=0;
+        Node * prev=NULL;
+        Node *curr=head;
+        Node *temp=NULL;
         
-        return newnode;
+        while(curr!=NULL){
+            temp=curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=temp;
+        }
+        return prev;
     }
     
 };
