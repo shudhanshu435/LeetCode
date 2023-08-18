@@ -34,26 +34,47 @@ class Solution
     public:
     //Function to sort a linked list of 0s, 1s and 2s.
     Node* segregate(Node *head) {
-        
         // Add code here
-        if(!head || !head->next)return head;
-        int zero=0,one=0,two=0;
-        Node *temp=head;
+        Node* zero = new Node(-1);
+        Node* ztail = zero;
+        Node* one = new Node(-1);
+        Node* otail = one;
+        Node* two = new Node(-1);
+        Node* ttail = two;
+        Node * temp=head;
         while(temp){
-            if(temp->data == 0)zero++;
-            else if(temp->data == 1)one++;
-            else two++;
+            if(temp->data==0){
+                ztail->next=temp;
+                ztail=ztail->next;
+            }
+            else if(temp->data==1){
+                otail->next=temp;
+                otail=otail->next;
+            }
+            else {
+                ttail->next=temp;
+                ttail=ttail->next;
+            }
             temp=temp->next;
         }
-        Node *newp=head;
-        for(int i=0;i<one+two+zero;i++){
-            if(i<zero)newp->data=0;
-            else if(i<one+zero)newp->data=1;
-            else newp->data=2;
-            newp=newp->next;
+        if(one->next){
+            ztail->next=one->next;
+            if(two->next){
+                otail->next=two->next;
+                ttail->next=NULL;
+            }
+            else otail->next=NULL;
         }
-        // cout<<zero<<endl<<one<<endl<<two<<endl;
-        return head;
+        else {
+            if(two->next){
+            ztail->next=two->next;
+            ttail->next=NULL;
+            }
+            else otail->next=NULL;
+        }
+        
+        return zero->next;
+        
     }
 };
 
