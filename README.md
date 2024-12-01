@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0016-3sum-closest](https://github.com/shudhanshu435/LeetCode/tree/master/0016-3sum-closest) |
 | [0074-search-a-2d-matrix](https://github.com/shudhanshu435/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0238-product-of-array-except-self](https://github.com/shudhanshu435/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0787-sliding-puzzle](https://github.com/shudhanshu435/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shudhanshu435/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shudhanshu435/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/shudhanshu435/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shudhanshu435/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1206-corporate-flight-bookings](https://github.com/shudhanshu435/LeetCode/tree/master/1206-corporate-flight-bookings) |
 ## Monotonic Queue
