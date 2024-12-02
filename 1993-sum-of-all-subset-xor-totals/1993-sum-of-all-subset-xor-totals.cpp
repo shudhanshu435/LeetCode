@@ -1,12 +1,23 @@
 class Solution {
 public:
+    
     int subsetXORSum(vector<int>& nums) {
-        int n=nums.size();
-        int orr=nums[0];
-        for(int i=1;i<n;i++){
-            orr=orr|nums[i];
+        int totalXorSum = 0;
+        int n = nums.size();
+        
+        int totalSubsets = 1 << n;
+
+        for (int i = 0; i < totalSubsets; ++i) {
+            int currentXor = 0;
+
+            for (int j = 0; j < n; ++j) {
+                if (i & (1 << j)) {
+                    currentXor ^= nums[j];
+                }
+            }
+            totalXorSum += currentXor;
         }
-        orr<<=(n-1);
-        return orr;
+
+        return totalXorSum;
     }
 };
