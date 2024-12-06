@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/shudhanshu435/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shudhanshu435/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shudhanshu435/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shudhanshu435/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shudhanshu435/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2777-find-the-distinct-difference-array](https://github.com/shudhanshu435/LeetCode/tree/master/2777-find-the-distinct-difference-array) |
 | [3429-special-array-i](https://github.com/shudhanshu435/LeetCode/tree/master/3429-special-array-i) |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/shudhanshu435/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shudhanshu435/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shudhanshu435/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shudhanshu435/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Queue
 |  |
 | ------- |
@@ -69,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/shudhanshu435/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shudhanshu435/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/shudhanshu435/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shudhanshu435/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2777-find-the-distinct-difference-array](https://github.com/shudhanshu435/LeetCode/tree/master/2777-find-the-distinct-difference-array) |
 ## Two Pointers
 |  |
@@ -85,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0016-3sum-closest](https://github.com/shudhanshu435/LeetCode/tree/master/0016-3sum-closest) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shudhanshu435/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shudhanshu435/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## String
 |  |
 | ------- |
@@ -115,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2089-maximum-matrix-sum](https://github.com/shudhanshu435/LeetCode/tree/master/2089-maximum-matrix-sum) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shudhanshu435/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Breadth-First Search
 |  |
 | ------- |
