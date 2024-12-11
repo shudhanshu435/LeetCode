@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1755-defuse-the-bomb](https://github.com/shudhanshu435/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shudhanshu435/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/shudhanshu435/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shudhanshu435/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 ## Binary Search
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/shudhanshu435/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/shudhanshu435/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shudhanshu435/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shudhanshu435/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3427-special-array-ii) |
 ## Queue
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/shudhanshu435/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shudhanshu435/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2777-find-the-distinct-difference-array](https://github.com/shudhanshu435/LeetCode/tree/master/2777-find-the-distinct-difference-array) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shudhanshu435/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Two Pointers
 |  |
@@ -109,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2414-move-pieces-to-obtain-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/shudhanshu435/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/shudhanshu435/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shudhanshu435/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Matrix
 |  |
@@ -209,5 +213,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shudhanshu435/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 <!---LeetCode Topics End-->
