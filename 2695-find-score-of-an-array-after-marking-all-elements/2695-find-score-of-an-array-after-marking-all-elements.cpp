@@ -1,25 +1,27 @@
 class Solution {
 public:
+    #define p pair<int,int>
     long long findScore(vector<int>& nums) {
         int n=nums.size();
-        vector<vector<int>>vec;
-        for(int i=0;i<nums.size();i++){
-            vec.push_back({nums[i],i});
+        priority_queue<p,vector<p>,greater<p>>pq; //min heap
+        for(int i=0;i<n;i++){
+            pq.push(make_pair(nums[i],i));
         }
-
-        sort(vec.begin(),vec.end());
         long long score=0;
-        vector<bool>visited(n,true);
-        for(int i=0;i<nums.size();i++){
-            int ele=vec[i][0];
-            int ind=vec[i][1];
-            if(visited[ind]==true){
+        vector<bool>visited(n,false);
+        while(!pq.empty()){
+            p temp = pq.top();
+            pq.pop();
+            int ele=temp.first;
+            int ind=temp.second;
+            if(visited[ind]==false){
                 score+=ele;
-                visited[ind]=false;
-                if(ind-1>=0)visited[ind-1]=false;
-                if(ind+1<n)visited[ind+1]=false;
+                visited[ind]=true;
+                if(ind-1>=0 and visited[ind-1]==false)visited[ind-1]=true;
+                if(ind+1<n and visited[ind+1]==false)visited[ind+1]=true;
             }
         }
+
         return score;
     }
 };
