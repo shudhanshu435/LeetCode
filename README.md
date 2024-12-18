@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1206-corporate-flight-bookings](https://github.com/shudhanshu435/LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/shudhanshu435/LeetCode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shudhanshu435/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shudhanshu435/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1755-defuse-the-bomb](https://github.com/shudhanshu435/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/shudhanshu435/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1917-maximum-average-pass-ratio](https://github.com/shudhanshu435/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0394-decode-string](https://github.com/shudhanshu435/LeetCode/tree/master/0394-decode-string) |
 | [0886-score-of-parentheses](https://github.com/shudhanshu435/LeetCode/tree/master/0886-score-of-parentheses) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shudhanshu435/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Shortest Path
 |  |
 | ------- |
@@ -250,4 +252,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/shudhanshu435/LeetCode/tree/master/2868-continuous-subarrays) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shudhanshu435/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
