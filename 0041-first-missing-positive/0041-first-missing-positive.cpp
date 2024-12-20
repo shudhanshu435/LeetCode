@@ -5,11 +5,8 @@ public:
         for(int i=0;i<n;i++){
             int ele=nums[i];
             if(ele>=1 and ele<=n){
-                int ch=ele-1;
-                if(nums[ch]!=ele){
-                    swap(nums[ch],nums[i]);
-                    i--;
-                }
+                int chair=ele-1;
+                if(nums[chair]!=ele)swap(nums[chair],nums[i--]);
             }
         }
         for(int i=0;i<n;i++){
