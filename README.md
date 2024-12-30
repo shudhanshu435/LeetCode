@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1063-best-sightseeing-pair](https://github.com/shudhanshu435/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/shudhanshu435/LeetCode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1488-sort-integers-by-the-power-value](https://github.com/shudhanshu435/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
+| [2562-count-ways-to-build-good-strings](https://github.com/shudhanshu435/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Math
 |  |
 | ------- |
