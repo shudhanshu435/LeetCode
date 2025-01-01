@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/shudhanshu435/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shudhanshu435/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1206-corporate-flight-bookings](https://github.com/shudhanshu435/LeetCode/tree/master/1206-corporate-flight-bookings) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3427-special-array-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3427-special-array-ii) |
 ## Monotonic Queue
 |  |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/shudhanshu435/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0886-score-of-parentheses](https://github.com/shudhanshu435/LeetCode/tree/master/0886-score-of-parentheses) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shudhanshu435/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/shudhanshu435/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2232-adding-spaces-to-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
