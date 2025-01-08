@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2868-continuous-subarrays](https://github.com/shudhanshu435/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shudhanshu435/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/shudhanshu435/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/shudhanshu435/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/shudhanshu435/LeetCode/tree/master/3429-special-array-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/shudhanshu435/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/shudhanshu435/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shudhanshu435/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/shudhanshu435/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Matrix
 |  |
 | ------- |
@@ -262,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0459-repeated-substring-pattern](https://github.com/shudhanshu435/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [1524-string-matching-in-an-array](https://github.com/shudhanshu435/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shudhanshu435/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/shudhanshu435/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -351,4 +354,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/shudhanshu435/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/shudhanshu435/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/shudhanshu435/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
