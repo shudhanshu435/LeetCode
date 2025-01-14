@@ -4,15 +4,12 @@ public:
         unordered_map<int,int>mp1,mp2;
         int maxi=0;
         vector<int>vec;
+        int k=0;
         for(int i=0;i<A.size();i++){
+            k+=2;
             mp1[A[i]]++;
-            mp2[B[i]]++;
-            maxi=max(maxi,max(A[i],B[i]));
-            int cnt=0;
-            for(int j=1;j<=maxi;j++){
-                if(mp1[j]!=0 and mp2[j]!=0 and mp1[j]==mp2[j])cnt++;
-            }
-            vec.push_back(cnt);
+            mp1[B[i]]++;
+            vec.push_back(k-mp1.size());
         }
         return vec;
 
