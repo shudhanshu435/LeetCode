@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/shudhanshu435/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0407-trapping-rain-water-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/shudhanshu435/LeetCode/tree/master/0494-target-sum) |
+| [0695-max-area-of-island](https://github.com/shudhanshu435/LeetCode/tree/master/0695-max-area-of-island) |
 | [0747-min-cost-climbing-stairs](https://github.com/shudhanshu435/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shudhanshu435/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/shudhanshu435/LeetCode/tree/master/0787-sliding-puzzle) |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/shudhanshu435/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0695-max-area-of-island](https://github.com/shudhanshu435/LeetCode/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/shudhanshu435/LeetCode/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/shudhanshu435/LeetCode/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shudhanshu435/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -259,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shudhanshu435/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0695-max-area-of-island](https://github.com/shudhanshu435/LeetCode/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/shudhanshu435/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/shudhanshu435/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/shudhanshu435/LeetCode/tree/master/1036-rotting-oranges) |
@@ -302,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shudhanshu435/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0695-max-area-of-island](https://github.com/shudhanshu435/LeetCode/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/shudhanshu435/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/shudhanshu435/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2201-valid-arrangement-of-pairs](https://github.com/shudhanshu435/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
@@ -443,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/shudhanshu435/LeetCode/tree/master/0695-max-area-of-island) |
 | [1396-count-servers-that-communicate](https://github.com/shudhanshu435/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/shudhanshu435/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Topological Sort
