@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2533-bitwise-xor-of-all-pairings](https://github.com/shudhanshu435/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shudhanshu435/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shudhanshu435/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/shudhanshu435/LeetCode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2685-first-completely-painted-row-or-column](https://github.com/shudhanshu435/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/shudhanshu435/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/shudhanshu435/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2145-grid-game](https://github.com/shudhanshu435/LeetCode/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/shudhanshu435/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/shudhanshu435/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/shudhanshu435/LeetCode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/shudhanshu435/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3427-special-array-ii) |
 ## Monotonic Queue
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/shudhanshu435/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1488-sort-integers-by-the-power-value](https://github.com/shudhanshu435/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shudhanshu435/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/shudhanshu435/LeetCode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/shudhanshu435/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shudhanshu435/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## String
@@ -265,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2300-construct-string-with-repeat-limit](https://github.com/shudhanshu435/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2509-minimize-xor](https://github.com/shudhanshu435/LeetCode/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shudhanshu435/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/shudhanshu435/LeetCode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 ## Breadth-First Search
 |  |
 | ------- |
