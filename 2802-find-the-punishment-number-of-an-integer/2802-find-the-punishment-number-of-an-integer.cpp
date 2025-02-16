@@ -1,20 +1,11 @@
 class Solution {
 public:
-    bool check(int i, int currsum, string s, int num){
-        if(i==s.length())return currsum==num;
+    bool check(int sq, int currsum, int num){
+        if(sq==0)return currsum==num;
 
         if(currsum>num)return false;
 
-        bool poss=0;
-        for(int j=i;j<s.length();j++){
-            string sub=s.substr(i,j-i+1);
-            int val=stoi(sub);
-
-            poss=poss or check(j+1,currsum+val,s,num);
-
-            if(poss)return 1;
-        }
-        return 0;
+        return check(sq/10,currsum+sq%10,num) or check(sq/100,currsum+sq%100,num) or check(sq/1000,currsum+sq%1000,num) or check(sq/10000,currsum+sq%10000,num);
 
     }
     int punishmentNumber(int n) {
@@ -23,7 +14,7 @@ public:
             int sq=i*i;
             string s=to_string(sq);
 
-            if(check(0,0,s,i))pun+=sq;
+            if(check(sq,0,i))pun+=sq;
         }
         return pun;
     }
