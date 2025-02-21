@@ -2,20 +2,32 @@ class Solution {
 public:
     int longestMountain(vector<int>& arr) {
         int ans=0,n=arr.size();
-        for(int i=1;i<n-1;i++){
-            bool f=0,ff=0;
-            int left=i;
-            while(left-1>=0 and arr[left]>arr[left-1]){
-                left--;
+        int cnt=1;
+        bool f=0,ff=0;
+        for(int i=0;i<n-1;i++){
+            if(arr[i]<arr[i+1]){
+                cnt++;
                 f=1;
             }
-            int right=i;
-            while(right+1<n and arr[right]>arr[right+1]){
-                right++;
+            else if(arr[i]>arr[i+1]){
+                cnt++;
                 ff=1;
+                if(f)ans=max(ans,cnt);
+                if(i+2<n and arr[i+1]<arr[i+2]){
+                    cnt=1;
+                }
             }
-            if(f and ff)
-            ans=max(ans,right-left+1);
+            else {
+                cnt=1;f=0;ff=0;
+            }
+            // if(f and ff)
+            // ans=max(ans,cnt);
+            // if(i+2<n and arr[i+1]<arr[i] and arr[i+1]<arr[i+2]){
+            //     cnt=1;
+            //     ff=0;
+            // }
+
+            // ans=max(ans,right-left+1);
             // cout<<left<<"  "<<right<<" ";
             // cout<<ans<<endl;
         }
