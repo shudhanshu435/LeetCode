@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0807-custom-sort-string](https://github.com/shudhanshu435/LeetCode/tree/master/0807-custom-sort-string) |
 | [0837-most-common-word](https://github.com/shudhanshu435/LeetCode/tree/master/0837-most-common-word) |
 | [0952-word-subsets](https://github.com/shudhanshu435/LeetCode/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shudhanshu435/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/shudhanshu435/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shudhanshu435/LeetCode/tree/master/0016-3sum-closest) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shudhanshu435/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0807-custom-sort-string](https://github.com/shudhanshu435/LeetCode/tree/master/0807-custom-sort-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shudhanshu435/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1488-sort-integers-by-the-power-value](https://github.com/shudhanshu435/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/shudhanshu435/LeetCode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/shudhanshu435/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/shudhanshu435/LeetCode/tree/master/0686-repeated-string-match) |
+| [0807-custom-sort-string](https://github.com/shudhanshu435/LeetCode/tree/master/0807-custom-sort-string) |
 | [0837-most-common-word](https://github.com/shudhanshu435/LeetCode/tree/master/0837-most-common-word) |
 | [0886-score-of-parentheses](https://github.com/shudhanshu435/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0952-word-subsets](https://github.com/shudhanshu435/LeetCode/tree/master/0952-word-subsets) |
