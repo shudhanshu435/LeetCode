@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0886-score-of-parentheses](https://github.com/shudhanshu435/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0952-word-subsets](https://github.com/shudhanshu435/LeetCode/tree/master/0952-word-subsets) |
 | [0979-di-string-match](https://github.com/shudhanshu435/LeetCode/tree/master/0979-di-string-match) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/shudhanshu435/LeetCode/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1156-occurrences-after-bigram](https://github.com/shudhanshu435/LeetCode/tree/master/1156-occurrences-after-bigram) |
 | [1160-letter-tile-possibilities](https://github.com/shudhanshu435/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -402,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/shudhanshu435/LeetCode/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/shudhanshu435/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/shudhanshu435/LeetCode/tree/master/0854-making-a-large-island) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/shudhanshu435/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [2201-valid-arrangement-of-pairs](https://github.com/shudhanshu435/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
@@ -522,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shudhanshu435/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/shudhanshu435/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -531,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shudhanshu435/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/shudhanshu435/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
