@@ -5,7 +5,7 @@ public:
         if(n==0)return 1;
         if(dp[n][cell]!=-1)return dp[n][cell];
         int ans=0;
-        for(auto i:mp[cell]){
+        for(auto& i:mp[cell]){
             ans=(ans+solve(n-1,i,mp,dp))%mod;
         }
         return dp[n][cell]=ans;
