@@ -440,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/shudhanshu435/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0747-min-cost-climbing-stairs](https://github.com/shudhanshu435/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/shudhanshu435/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [0972-knight-dialer](https://github.com/shudhanshu435/LeetCode/tree/master/0972-knight-dialer) |
 | [1025-minimum-cost-for-tickets](https://github.com/shudhanshu435/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/shudhanshu435/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/shudhanshu435/LeetCode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
