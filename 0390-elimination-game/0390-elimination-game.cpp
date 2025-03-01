@@ -1,14 +1,26 @@
 class Solution {
 public:
-    int solve(int n, bool isLeft){
-        if(n==1)return 1;
-        if (isLeft) {
-            return 2 * solve(n / 2, false);
-        } else {
-            return 2 * solve(n / 2, true) - (n % 2 == 0 ? 1 : 0);
-        }
-    }
     int lastRemaining(int n) {
-        return solve(n,1);
+        int left=1,right=n;
+        bool l=1;
+        int k=1;
+        int i=1;
+        while(left<right){
+            if(l){
+                left+=k;
+                if(n&1)right=right-k;
+                n/=2;
+                k=(1<<i++);
+                l=0;
+            }
+            else{
+                right-=k;
+                if(n&1)left=left+k;
+                n/=2;
+                k=(1<<i++);
+                l=1;
+            }
+        }
+        return left;
     }
 };
