@@ -272,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0006-zigzag-conversion](https://github.com/shudhanshu435/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/shudhanshu435/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/shudhanshu435/LeetCode/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/shudhanshu435/LeetCode/tree/master/0091-decode-ways) |
 | [0208-implement-trie-prefix-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/shudhanshu435/LeetCode/tree/master/0224-basic-calculator) |
@@ -348,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shudhanshu435/LeetCode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/shudhanshu435/LeetCode/tree/master/0498-diagonal-traverse) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shudhanshu435/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/shudhanshu435/LeetCode/tree/master/2197-decode-the-slanted-ciphertext) |
@@ -505,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/shudhanshu435/LeetCode/tree/master/0060-permutation-sequence) |
+| [0067-add-binary](https://github.com/shudhanshu435/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shudhanshu435/LeetCode/tree/master/0069-sqrtx) |
 | [0224-basic-calculator](https://github.com/shudhanshu435/LeetCode/tree/master/0224-basic-calculator) |
 | [0372-super-pow](https://github.com/shudhanshu435/LeetCode/tree/master/0372-super-pow) |
@@ -534,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shudhanshu435/LeetCode/tree/master/0067-add-binary) |
 | [1281-can-make-palindrome-from-substring](https://github.com/shudhanshu435/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shudhanshu435/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shudhanshu435/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
