@@ -25,7 +25,7 @@ public:
             }
             pq.push(p[i].second.second);
             sum+=p[i].second.second;
-            cout<<sum<<endl;
+            // cout<<sum<<endl;
             if(pq.size()>k){
                 sum-=pq.top();
                 pq.pop();
