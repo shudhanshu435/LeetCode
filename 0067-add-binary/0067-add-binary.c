@@ -1,33 +1,18 @@
-int max(int a, int b){
-    return (a>b)?a:b;
-}
 char* addBinary(char* a, char* b) {
     int la=strlen(a);
     int lb=strlen(b);
-    int m=max(la,lb);
-
-    char* pa=(char*)malloc(m+1);
-    char* pb=(char*)malloc(m+1);
-
-    memset(pa,'0',m-la);
-    strcpy(pa+(m-la),a);
-    pa[m]='\0';
-
-    memset(pb,'0',m-lb);
-    strcpy(pb+(m-lb),b);
-    pb[m]='\0';
-
+    int m=(la>lb)?la:lb;
     char* arr = (char*)malloc(m+2);
     int carry=0,ind=0;
+    
+    int i=la-1,j=lb-1;
 
-    // printf("%s  %s\n",pa,pb);
-    // printf("%d  %d",strlen(a),strlen(b));
-
-    while(m--){
-        if(pa[m]==pb[m]){
+    // continue adding till smaller length array
+    while(i>=0 && j>=0){
+        if(a[i]==b[j]){
             if(carry==1)arr[ind]='1';
             else arr[ind]='0';
-            if(pa[m]=='1')carry=1;
+            if(a[i]=='1')carry=1;
             else carry=0;
         }
         else{
@@ -35,18 +20,46 @@ char* addBinary(char* a, char* b) {
             else arr[ind]='1';
         }
         ind++;
-    }
-    // printf("%d  ",ind);
-    if(carry==1)arr[ind++]='1';
-    arr[ind] = '\0';
-    // printf("%s",arr);
-    int len = ind;
-    for (int i = 0; i < len / 2; i++) {
-        char t = arr[i];
-        arr[i] = arr[len - i - 1];
-        arr[len - i - 1] = t;
+        i--;j--;
     }
 
+    // if first array is not finished then we'll check for rest elements
+    while(i>=0){
+        if(carry==(a[i]-'0')){
+            arr[ind]='0';
+        }
+        else{
+            arr[ind]='1';
+            carry=0;
+        }
+        i--;
+        ind++;
+    }
+
+    // if second array is not finished then we'll check for rest elements
+    while(j>=0){
+        if(carry==(b[j]-'0')){
+            arr[ind]='0';
+        }
+        else{
+            arr[ind]='1';
+            carry=0;
+        }
+        j--;
+        ind++;
+    }
+
+    //if carry left
+    if(carry==1)arr[ind++]='1';
+    arr[ind] = '\0';
+    int len = ind;
+
+    //for reversing string
+    for(int i=0;i<len/2;i++){
+        char t=arr[i];
+        arr[i]=arr[len-i-1];
+        arr[len-i-1]=t;
+    }
 
     return arr;
 }
