@@ -1,52 +1,45 @@
 class Solution {
 public:
-    bool isVowel(char ch) {
-        return (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u');
+    bool isCon(char ch){
+        if(ch=='a' or ch=='e' or ch=='i' or ch=='o' or ch=='u')return false;
+        return 1;
     }
-
     long long countOfSubstrings(string word, int k) {
-        int n = word.size();
-        unordered_map<char, int> vowels;
-        int consonantCount = 0;
-        long long result = 0;
+        unordered_map<char,int>mp;
+        long long con=0,ans=0;
+        int n=word.size();
+        int start=0;
+        vector<int>conind;
 
-        vector<int> nextConsonant(n);
-        int lastConsonant = n;
-        for (int i = n - 1; i >= 0; i--) {
-            nextConsonant[i] = lastConsonant;
-            if (!isVowel(word[i])) lastConsonant = i;
+        for(int i=0;i<n;i++){
+            if(isCon(word[i]))conind.push_back(i);
         }
+        conind.push_back(n);
 
-        int left = 0, right = 0;
-        while (right < n) {
-            if (isVowel(word[right])) {
-                vowels[word[right]]++;
-            } else {
-                consonantCount++;
-            }
+        // for(auto i:conind)cout<<i<<" ";
+        // cout<<endl;
 
-            while (left <= right && consonantCount > k) {
-                if (isVowel(word[left])) {
-                    if (--vowels[word[left]] == 0) vowels.erase(word[left]);
-                } else {
-                    consonantCount--;
+        for(int x=0;x<n;x++){
+            mp[word[x]]++;
+            int a=mp['a'],e=mp['e'],i=mp['i'],o=mp['o'],u=mp['u'];
+            if(isCon(word[x]))con++;
+            while(a and e and i and o and u){
+                if(con>k){
+                    if(isCon(word[start]))con--;
+                    else mp[word[start]]--;
                 }
-                left++;
-            }
-
-            while (left < right && vowels.size() == 5 && consonantCount == k) {
-                result += (nextConsonant[right] - right);
-                if (isVowel(word[left])) {
-                    if (--vowels[word[left]] == 0) vowels.erase(word[left]);
-                } else {
-                    consonantCount--;
+                else if(con==k){
+                    auto it=upper_bound(conind.begin(),conind.end(),x);
+                    ans+=(*it-x);
+                    if(isCon(word[start]))con--;
+                    else mp[word[start]]--;
                 }
-                left++;
+                else
+                    break;
+                start++;
+                a=mp['a'],e=mp['e'],i=mp['i'],o=mp['o'],u=mp['u'];
             }
-
-            right++;
         }
-
-        return result;
+        return ans;
     }
 };
