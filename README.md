@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shudhanshu435/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/shudhanshu435/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/shudhanshu435/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/shudhanshu435/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shudhanshu435/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1281-can-make-palindrome-from-substring](https://github.com/shudhanshu435/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1364-tuple-with-same-product](https://github.com/shudhanshu435/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/shudhanshu435/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shudhanshu435/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/shudhanshu435/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shudhanshu435/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -298,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1160-letter-tile-possibilities](https://github.com/shudhanshu435/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/shudhanshu435/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1281-can-make-palindrome-from-substring](https://github.com/shudhanshu435/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/shudhanshu435/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/shudhanshu435/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shudhanshu435/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/shudhanshu435/LeetCode/tree/master/1524-string-matching-in-an-array) |
