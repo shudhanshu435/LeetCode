@@ -6,24 +6,21 @@ public:
         vector<long long>v(n+1,0ll);
         long long sum=accumulate(nums.begin(),nums.end(),0ll);
         if(sum==0)return 0;
+
         long long i=0,j=qq.size()-1,ans=-1;
         while(i<=j){
             long long mid=j-(j-i)/2;
             fill(v.begin(), v.end(), 0ll);
             for(long long x=0;x<=mid;x++){
-                // cout<<x<<endl;
-                // cout<<qq[x][0]<<" rrrr "<<qq[x][2]<<endl;
                 v[qq[x][0]]+=qq[x][2];
                 v[qq[x][1]+1]-=qq[x][2];
             }
             bool f=true;
-            vector<long long>pref(n);
-            pref[0]=v[0];
-            if(nums[0]>pref[0])f=false;
+            if(nums[0]>v[0])f=false;
             else{
                 for(long long i=1;i<n;i++){
-                    pref[i]=v[i]+pref[i-1];
-                    if(nums[i]>pref[i]){
+                    v[i]=v[i]+v[i-1];
+                    if(nums[i]>v[i]){
                         f=false;break;
                     }
                 }
