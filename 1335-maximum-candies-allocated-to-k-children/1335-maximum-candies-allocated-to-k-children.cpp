@@ -9,14 +9,14 @@ public:
         return 0;
     }
     int maximumCandies(vector<int>& candies, long long k) {
-        long long sum=accumulate(candies.begin(),candies.end(),0ll);
+        long long sum=accumulate(candies.begin(),candies.end(),0ll);//O(n)
         if(sum<k)return 0;
         int n=candies.size();
         int m=sum/k;
         int i=1,j=m;
         int ans=0;
-        sort(candies.rbegin(),candies.rend());
-        while(i<=j){
+        sort(candies.rbegin(),candies.rend()); //O(nlogn)
+        while(i<=j){ //O(n*logm) // here n is for pos function
             int mid=j-(j-i)/2;
             if(pos(candies,mid,k)){
                 ans=mid;
