@@ -2,25 +2,21 @@ class Solution {
 public:
     bool isZeroArray(vector<int>& nums, vector<vector<int>>& queries) {
         int n=nums.size();
-        vector<int>diff(n+1,0);
-        diff[0]=nums[0];
-        for(int i=1;i<n;i++){
-            diff[i]=nums[i]-nums[i-1]; //difference array for range query problem
+        vector<int>vec(n+1,0);
+        for(auto query:queries){
+            int q=query[0],r=query[1];
+            vec[q]+=1;
+            vec[r+1]-=1;
         }
-        for(auto i:diff)cout<<i<<" ";
-        cout<<endl;
-        for(auto i:queries){
-            int a=i[0];
-            int b=i[1];
-            diff[a]-=1;
-            diff[b+1]+=1;
+        for(int i=1;i<=n;i++){
+            vec[i]=vec[i]+vec[i-1];
         }
-        if(diff[0]>0)return 0;
-        for(int i=1;i<diff.size()-1;i++){
-            diff[i]=diff[i]+diff[i-1];
-            if(diff[i]>0)return 0;
+        bool is=true;
+        for(int i=0;i<n;i++){
+            if(nums[i]>vec[i]){
+                is=false;break;
+            }
         }
-
-        return 1;
+        return is;
     }
 };
