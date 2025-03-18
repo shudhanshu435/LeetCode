@@ -1,14 +1,15 @@
 class Solution {
 public:
     int longestNiceSubarray(vector<int>& nums) {
-        unordered_map<int,int>mp;
+        // unordered_map<int,int>mp;
+        vector<int>vec(32,0);
         int ans=1;
         int k=0;
         for(int i=0;i<nums.size();i++){
             bool nice=1;
             for(int j=0;j<32;j++){
-                if((nums[i]>>j)&1)mp[j]++;
-                if(mp[j]==2){
+                if((nums[i]>>j)&1)vec[j]++;
+                if(vec[j]==2){
                     nice=0;
                 }
             }
@@ -17,8 +18,8 @@ public:
                 while(1){
                     int cnt=0;
                     for(int j=0;j<32;j++){
-                        if((nums[k]>>j)&1)mp[j]--;
-                        if(mp[j]<=1){
+                        if((nums[k]>>j)&1)vec[j]--;
+                        if(vec[j]<=1){
                             cnt++;
                         }
                     }
