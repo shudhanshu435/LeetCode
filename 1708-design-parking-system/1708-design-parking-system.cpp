@@ -1,11 +1,7 @@
 class ParkingSystem {
 public:
-    vector<int>a,b,c;
     int bb,m,s;
     ParkingSystem(int big, int medium, int small) {
-        a.resize(big);
-        b.resize(medium);
-        c.resize(small);
         bb=big,m=medium,s=small;
     }
     int c1=0,c2=0,c3=0;
