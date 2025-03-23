@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3429-special-array-i](https://github.com/shudhanshu435/LeetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shudhanshu435/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/shudhanshu435/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shudhanshu435/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/shudhanshu435/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shudhanshu435/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -567,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2649-count-total-number-of-colored-cells](https://github.com/shudhanshu435/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/shudhanshu435/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/shudhanshu435/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shudhanshu435/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Backtracking
 |  |
 | ------- |
