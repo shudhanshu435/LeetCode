@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2107-find-unique-binary-string](https://github.com/shudhanshu435/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/shudhanshu435/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/shudhanshu435/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shudhanshu435/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2434-design-a-number-container-system](https://github.com/shudhanshu435/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/shudhanshu435/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shudhanshu435/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -347,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/shudhanshu435/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/shudhanshu435/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shudhanshu435/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shudhanshu435/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/shudhanshu435/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -627,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shudhanshu435/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/shudhanshu435/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/shudhanshu435/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shudhanshu435/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2448-count-number-of-bad-pairs](https://github.com/shudhanshu435/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/shudhanshu435/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shudhanshu435/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
