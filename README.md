@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3639-zero-array-transformation-i](https://github.com/shudhanshu435/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/shudhanshu435/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Sliding Window
 |  |
 | ------- |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3430-count-days-without-meetings](https://github.com/shudhanshu435/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/shudhanshu435/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/shudhanshu435/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## String
 |  |
 | ------- |
