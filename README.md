@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-maximum-matrix-sum](https://github.com/shudhanshu435/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/shudhanshu435/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/shudhanshu435/LeetCode/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shudhanshu435/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2232-adding-spaces-to-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shudhanshu435/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/shudhanshu435/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/shudhanshu435/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1488-sort-integers-by-the-power-value](https://github.com/shudhanshu435/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/shudhanshu435/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shudhanshu435/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/shudhanshu435/LeetCode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shudhanshu435/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shudhanshu435/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -390,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1972-rotating-the-box](https://github.com/shudhanshu435/LeetCode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/shudhanshu435/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/shudhanshu435/LeetCode/tree/master/2145-grid-game) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shudhanshu435/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/shudhanshu435/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shudhanshu435/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2685-first-completely-painted-row-or-column](https://github.com/shudhanshu435/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -575,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shudhanshu435/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/shudhanshu435/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2050-count-good-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/2050-count-good-numbers) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shudhanshu435/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2187-vowels-of-all-substrings](https://github.com/shudhanshu435/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 | [2448-count-number-of-bad-pairs](https://github.com/shudhanshu435/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/shudhanshu435/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
