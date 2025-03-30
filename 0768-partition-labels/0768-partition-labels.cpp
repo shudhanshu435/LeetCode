@@ -1,19 +1,20 @@
 class Solution {
 public:
     vector<int> partitionLabels(string s) {
-        unordered_map<char,int>mp,mp2;
+        // unordered_map<char,int>mp,mp2;
+        vector<int>mp(26,0),mp2(26,0);
         for(auto i:s){
-            mp[i]++;
+            mp[i-'a']++;
         }
         mp2=mp;
         int k=0;
         vector<int>ans;
         for(int i=0;i<s.size();i++){
-            mp[s[i]]--;
+            mp[s[i]-'a']--;
             bool f=false;
             for(char c='a';c<='z';c++){
-                if(mp2[c]==0)continue;
-                if(mp[c]!=0 and mp[c]!=mp2[c]){
+                if(mp2[c-'a']==0)continue;
+                if(mp[c-'a']!=0 and mp[c-'a']!=mp2[c-'a']){
                     f=true;break;
                 }
             }
