@@ -9,7 +9,7 @@ public:
         }
         long long ans=0;
         sort(v.begin(),v.end());
-        for(int i:v)cout<<i<<" ";
+        // for(int i:v)cout<<i<<" ";
         for(int i=0;i<k-1;i++){
             ans+=(v[n-2-i]-v[i]);
         }
