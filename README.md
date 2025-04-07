@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shudhanshu435/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shudhanshu435/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/shudhanshu435/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/shudhanshu435/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/shudhanshu435/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/shudhanshu435/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/shudhanshu435/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shudhanshu435/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/shudhanshu435/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/shudhanshu435/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1983-maximum-population-year](https://github.com/shudhanshu435/LeetCode/tree/master/1983-maximum-population-year) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shudhanshu435/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -628,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/shudhanshu435/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shudhanshu435/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1693-sum-of-all-odd-length-subarrays](https://github.com/shudhanshu435/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shudhanshu435/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shudhanshu435/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/shudhanshu435/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
