@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minimumOperations(vector<int>& nums) {
-        set<int>s;
+        unordered_set<int>s;
         int n=nums.size();
         if(n%3!=0){
             s.insert(nums[n-1]);
