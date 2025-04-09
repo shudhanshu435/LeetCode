@@ -1,15 +1,18 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums, int k) {
-        unordered_set<int>s;
+        vector<bool>v(101,false);
         int mini=101;
+        int cnt=0;
         for(auto i:nums){
-            s.insert(i);
-            mini=min(mini,i);
+            if(v[i]==false){
+                v[i]=true;
+                cnt++;
+                mini=min(mini,i);
+            }
         }
-        int size=s.size();
         if(k>mini)return -1;
-        if(k==mini)return size-1;
-        return size;
+        if(k==mini)return cnt-1;
+        return cnt;
     }
 };
