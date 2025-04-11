@@ -3,20 +3,10 @@ public:
     int countSymmetricIntegers(int low, int high) {
         int cnt=0;
         for(int i=low;i<=high;i++){
-            int s=floor(log10(i))+1;
-            if(s&1)continue;
-            int s1=0;
-            int hlf=s/2;
-            int ii=i;
-            while(ii){
-                if(hlf){
-                    hlf--;
-                    s1+=ii%10;
-                }
-                else s1-=(ii%10);
-                ii/=10;
-            }
-            if(s1==0)cnt++;
+            string a=to_string(i);
+            int n=a.length();
+            if(n&1)continue;
+            if(accumulate(a.begin(),a.end()-n/2,0) == accumulate(a.begin()+n/2, a.end(),0))cnt++;
         }
         return cnt;
     }
