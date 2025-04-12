@@ -293,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shudhanshu435/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/shudhanshu435/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shudhanshu435/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3548-find-the-count-of-good-integers](https://github.com/shudhanshu435/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/shudhanshu435/LeetCode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/shudhanshu435/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -650,6 +651,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/shudhanshu435/LeetCode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/shudhanshu435/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shudhanshu435/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3548-find-the-count-of-good-integers](https://github.com/shudhanshu435/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3567-convert-date-to-binary](https://github.com/shudhanshu435/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Backtracking
 |  |
@@ -684,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shudhanshu435/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2187-vowels-of-all-substrings](https://github.com/shudhanshu435/LeetCode/tree/master/2187-vowels-of-all-substrings) |
+| [3548-find-the-count-of-good-integers](https://github.com/shudhanshu435/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 ## Enumeration
 |  |
 | ------- |
@@ -692,6 +695,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2998-count-symmetric-integers](https://github.com/shudhanshu435/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/shudhanshu435/LeetCode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/shudhanshu435/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3548-find-the-count-of-good-integers](https://github.com/shudhanshu435/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 ## Linked List
 |  |
 | ------- |
