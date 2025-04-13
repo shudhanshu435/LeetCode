@@ -573,6 +573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/shudhanshu435/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0060-permutation-sequence](https://github.com/shudhanshu435/LeetCode/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/shudhanshu435/LeetCode/tree/master/0224-basic-calculator) |
 | [0390-elimination-game](https://github.com/shudhanshu435/LeetCode/tree/master/0390-elimination-game) |
@@ -699,6 +700,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/shudhanshu435/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shudhanshu435/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/shudhanshu435/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/shudhanshu435/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
