@@ -2,6 +2,7 @@ class Solution {
 public:
     string count(string& s){
         int cnt=1;
+        s+='*';
         string ans="";
         // cout<<s<<endl;
         for(int i=1;i<s.length();i++){
@@ -12,8 +13,8 @@ public:
                 cnt=1;
             }
         }
-        ans+=to_string(cnt);
-        ans+=s[s.length()-1];
+        // ans+=to_string(cnt);
+        // ans+=s[s.length()-1];
         return ans;
     }
     string countAndSay(int n) {
