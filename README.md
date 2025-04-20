@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/shudhanshu435/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shudhanshu435/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/shudhanshu435/LeetCode/tree/master/0787-sliding-puzzle) |
+| [0797-rabbits-in-forest](https://github.com/shudhanshu435/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/shudhanshu435/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0837-most-common-word](https://github.com/shudhanshu435/LeetCode/tree/master/0837-most-common-word) |
 | [0852-friends-of-appropriate-ages](https://github.com/shudhanshu435/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shudhanshu435/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0768-partition-labels](https://github.com/shudhanshu435/LeetCode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/shudhanshu435/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/shudhanshu435/LeetCode/tree/master/0807-custom-sort-string) |
 | [0808-number-of-matching-subsequences](https://github.com/shudhanshu435/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0837-most-common-word](https://github.com/shudhanshu435/LeetCode/tree/master/0837-most-common-word) |
@@ -486,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0768-partition-labels](https://github.com/shudhanshu435/LeetCode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shudhanshu435/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/shudhanshu435/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0979-di-string-match](https://github.com/shudhanshu435/LeetCode/tree/master/0979-di-string-match) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/shudhanshu435/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/shudhanshu435/LeetCode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -653,6 +656,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0372-super-pow](https://github.com/shudhanshu435/LeetCode/tree/master/0372-super-pow) |
 | [0390-elimination-game](https://github.com/shudhanshu435/LeetCode/tree/master/0390-elimination-game) |
 | [0650-2-keys-keyboard](https://github.com/shudhanshu435/LeetCode/tree/master/0650-2-keys-keyboard) |
+| [0797-rabbits-in-forest](https://github.com/shudhanshu435/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shudhanshu435/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/shudhanshu435/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
