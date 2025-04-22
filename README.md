@@ -658,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/shudhanshu435/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2187-vowels-of-all-substrings](https://github.com/shudhanshu435/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 | [2262-solving-questions-with-brainpower](https://github.com/shudhanshu435/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/shudhanshu435/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2562-count-ways-to-build-good-strings](https://github.com/shudhanshu435/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/shudhanshu435/LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/shudhanshu435/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -686,6 +687,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/shudhanshu435/LeetCode/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shudhanshu435/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2187-vowels-of-all-substrings](https://github.com/shudhanshu435/LeetCode/tree/master/2187-vowels-of-all-substrings) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/shudhanshu435/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/shudhanshu435/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/shudhanshu435/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/shudhanshu435/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -730,6 +732,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shudhanshu435/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2187-vowels-of-all-substrings](https://github.com/shudhanshu435/LeetCode/tree/master/2187-vowels-of-all-substrings) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/shudhanshu435/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/shudhanshu435/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 ## Enumeration
 |  |
@@ -885,6 +888,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/shudhanshu435/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/shudhanshu435/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Game Theory
 |  |
