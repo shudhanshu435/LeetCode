@@ -1,50 +1,34 @@
 class Solution {
 public:
-    #define pp pair<int,pair<int,int>>
-    vector<vector<int>> highestPeak(vector<vector<int>>& iss) {
-        int m=iss.size();
-        int n=iss[0].size();
-        priority_queue<pp,vector<pp>,greater<pp>>pq;
-        vector<vector<int>>vec(m, vector<int>(n,INT_MAX));
-        int cnt=m*n;
-
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(iss[i][j]==1){
-                    pq.push({0,{i,j}});
-                    cnt--;
-                    vec[i][j]=0;
+    vector<vector<int>> highestPeak(vector<vector<int>>& mat) {
+        int n=mat.size();
+        int m=mat[0].size();
+        queue<pair<int,int>>q;
+        vector<vector<int>>ans(n,vector<int>(m,-1));
+        vector<pair<int,int>>dir={{-1,0},{1,0},{0,1},{0,-1}};
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(mat[i][j]==1){
+                    ans[i][j]=0;
+                    q.push({i,j});
                 }
             }
         }
-        while(!pq.empty() and cnt){
-            int val=pq.top().first;
-            int ii=pq.top().second.first;
-            int jj=pq.top().second.second;
-            pq.pop();
-            
-            if(ii-1>=0 and vec[ii-1][jj]==INT_MAX){
-                vec[ii-1][jj]=val+1;
-                pq.push({val+1,{ii-1,jj}});
-                cnt--;
-            }
-            if(jj-1>=0 and vec[ii][jj-1]==INT_MAX){
-                vec[ii][jj-1]=val+1;
-                pq.push({val+1,{ii,jj-1}});
-                cnt--;
-            }
-            if(ii+1<m and vec[ii+1][jj]==INT_MAX){
-                vec[ii+1][jj]=val+1;
-                pq.push({val+1,{ii+1,jj}});
-                cnt--;
-            }
-            if(jj+1<n and vec[ii][jj+1]==INT_MAX){
-                vec[ii][jj+1]=val+1;
-                pq.push({val+1,{ii,jj+1}});
-                cnt--;
-            }
 
+        while(!q.empty()){
+            auto [x,y]=q.front();
+            q.pop();
+
+            for(auto i:dir){
+                int nx=x+i.first;
+                int ny=y+i.second;
+
+                if(nx>=0 and nx<n and ny>=0 and ny<m and ans[nx][ny]==-1){
+                    ans[nx][ny]=ans[x][y]+1;
+                    q.push({nx,ny});
+                }
+            }
         }
-        return vec;
+        return ans;
     }
 };
