@@ -3,7 +3,7 @@ public:
     string pushDominoes(string d) {
         string ans="";
         int n=d.size();
-        vector<char>res(n,'.');
+        string res(n,'.');
         vector<int>v;
         for(int i=0;i<d.size();i++){
             if(d[i]!='.'){
@@ -42,11 +42,7 @@ public:
                 }
             }
         }
-        ans.clear();
-        for(int i=0;i<n;i++){
-            ans+=res[i];
-        }
-        return ans;
+        return res;
     }
 };
 
