@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1972-rotating-the-box](https://github.com/shudhanshu435/LeetCode/tree/master/1972-rotating-the-box) |
 | [1983-maximum-population-year](https://github.com/shudhanshu435/LeetCode/tree/master/1983-maximum-population-year) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shudhanshu435/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/shudhanshu435/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2089-maximum-matrix-sum](https://github.com/shudhanshu435/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/shudhanshu435/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/shudhanshu435/LeetCode/tree/master/2145-grid-game) |
@@ -514,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/shudhanshu435/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1708-design-parking-system](https://github.com/shudhanshu435/LeetCode/tree/master/1708-design-parking-system) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shudhanshu435/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2048-build-array-from-permutation](https://github.com/shudhanshu435/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2197-decode-the-slanted-ciphertext](https://github.com/shudhanshu435/LeetCode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2232-adding-spaces-to-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shudhanshu435/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
