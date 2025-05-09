@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shudhanshu435/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/shudhanshu435/LeetCode/tree/master/0926-find-and-replace-pattern) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/shudhanshu435/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-word-subsets](https://github.com/shudhanshu435/LeetCode/tree/master/0952-word-subsets) |
 | [0979-di-string-match](https://github.com/shudhanshu435/LeetCode/tree/master/0979-di-string-match) |
 | [1025-minimum-cost-for-tickets](https://github.com/shudhanshu435/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shudhanshu435/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/shudhanshu435/LeetCode/tree/master/0926-find-and-replace-pattern) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/shudhanshu435/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-word-subsets](https://github.com/shudhanshu435/LeetCode/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shudhanshu435/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/shudhanshu435/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -730,6 +732,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0390-elimination-game](https://github.com/shudhanshu435/LeetCode/tree/master/0390-elimination-game) |
 | [0650-2-keys-keyboard](https://github.com/shudhanshu435/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0797-rabbits-in-forest](https://github.com/shudhanshu435/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/shudhanshu435/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shudhanshu435/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/shudhanshu435/LeetCode/tree/master/1500-count-largest-group) |
@@ -814,6 +817,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/shudhanshu435/LeetCode/tree/master/0837-most-common-word) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/shudhanshu435/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1160-letter-tile-possibilities](https://github.com/shudhanshu435/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/shudhanshu435/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/shudhanshu435/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -951,6 +955,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/shudhanshu435/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2083-three-divisors](https://github.com/shudhanshu435/LeetCode/tree/master/2083-three-divisors) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/shudhanshu435/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/shudhanshu435/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
