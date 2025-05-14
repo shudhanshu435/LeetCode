@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/shudhanshu435/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/shudhanshu435/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0407-trapping-rain-water-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0413-arithmetic-slices](https://github.com/shudhanshu435/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/shudhanshu435/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/shudhanshu435/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/shudhanshu435/LeetCode/tree/master/0494-target-sum) |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/shudhanshu435/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shudhanshu435/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/shudhanshu435/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/shudhanshu435/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shudhanshu435/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -701,6 +703,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0313-super-ugly-number](https://github.com/shudhanshu435/LeetCode/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/shudhanshu435/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/shudhanshu435/LeetCode/tree/master/0376-wiggle-subsequence) |
+| [0413-arithmetic-slices](https://github.com/shudhanshu435/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/shudhanshu435/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/shudhanshu435/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/shudhanshu435/LeetCode/tree/master/0494-target-sum) |
