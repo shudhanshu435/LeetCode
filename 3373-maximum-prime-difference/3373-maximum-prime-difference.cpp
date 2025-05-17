@@ -11,6 +11,9 @@ public:
         }
     }
     int maximumPrimeDifference(vector<int>& nums) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(nullptr);
+        cout.tie(nullptr);
         vector<bool>prime(101,1);
         func(prime);
         int m=1;
