@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/shudhanshu435/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shudhanshu435/LeetCode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/shudhanshu435/LeetCode/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/shudhanshu435/LeetCode/tree/master/0041-first-missing-positive) |
 | [0059-spiral-matrix-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/shudhanshu435/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -377,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/shudhanshu435/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/shudhanshu435/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shudhanshu435/LeetCode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/shudhanshu435/LeetCode/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0768-partition-labels](https://github.com/shudhanshu435/LeetCode/tree/master/0768-partition-labels) |
 | [0852-friends-of-appropriate-ages](https://github.com/shudhanshu435/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
@@ -402,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/shudhanshu435/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shudhanshu435/LeetCode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/shudhanshu435/LeetCode/tree/master/0018-4sum) |
 | [0324-wiggle-sort-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0368-largest-divisible-subset](https://github.com/shudhanshu435/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shudhanshu435/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
