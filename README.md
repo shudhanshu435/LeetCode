@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/shudhanshu435/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/shudhanshu435/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/shudhanshu435/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3321-type-of-triangle](https://github.com/shudhanshu435/LeetCode/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/shudhanshu435/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shudhanshu435/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -423,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2699-count-the-number-of-fair-pairs](https://github.com/shudhanshu435/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/shudhanshu435/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shudhanshu435/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3321-type-of-triangle](https://github.com/shudhanshu435/LeetCode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/shudhanshu435/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/shudhanshu435/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
@@ -785,6 +787,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2998-count-symmetric-integers](https://github.com/shudhanshu435/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/shudhanshu435/LeetCode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/shudhanshu435/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/shudhanshu435/LeetCode/tree/master/3321-type-of-triangle) |
 | [3373-maximum-prime-difference](https://github.com/shudhanshu435/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shudhanshu435/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3548-find-the-count-of-good-integers](https://github.com/shudhanshu435/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
