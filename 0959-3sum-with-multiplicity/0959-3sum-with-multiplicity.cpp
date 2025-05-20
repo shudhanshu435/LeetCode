@@ -3,6 +3,7 @@ public:
     int mod=1e9+7;
     int threeSumMulti(vector<int>& arr, int target) {
         unordered_map<int,int>mp;
+        sort(arr.begin(),arr.end());
         int n=arr.size();
         long long ans=0;
         for(int i=0;i<n-2;i++){
@@ -11,6 +12,7 @@ public:
                 mp[arr[j]]--;
                 ans=(ans+mp[target-(arr[i]+arr[j])])%mod;
                 // cout<<ans<<endl;
+                if(target-(arr[i]+arr[j])<arr[j])break;
             }
             mp.clear();
             // cout<<endl;
