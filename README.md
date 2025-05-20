@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-longest-mountain-in-array](https://github.com/shudhanshu435/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shudhanshu435/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shudhanshu435/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0917-boats-to-save-people](https://github.com/shudhanshu435/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/shudhanshu435/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/shudhanshu435/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -390,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-friends-of-appropriate-ages](https://github.com/shudhanshu435/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0868-push-dominoes](https://github.com/shudhanshu435/LeetCode/tree/master/0868-push-dominoes) |
 | [0875-longest-mountain-in-array](https://github.com/shudhanshu435/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [0917-boats-to-save-people](https://github.com/shudhanshu435/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0979-di-string-match](https://github.com/shudhanshu435/LeetCode/tree/master/0979-di-string-match) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/shudhanshu435/LeetCode/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shudhanshu435/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -418,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0807-custom-sort-string](https://github.com/shudhanshu435/LeetCode/tree/master/0807-custom-sort-string) |
 | [0808-number-of-matching-subsequences](https://github.com/shudhanshu435/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0852-friends-of-appropriate-ages](https://github.com/shudhanshu435/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
+| [0917-boats-to-save-people](https://github.com/shudhanshu435/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shudhanshu435/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1488-sort-integers-by-the-power-value](https://github.com/shudhanshu435/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shudhanshu435/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -578,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/shudhanshu435/LeetCode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shudhanshu435/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/shudhanshu435/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0917-boats-to-save-people](https://github.com/shudhanshu435/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0979-di-string-match](https://github.com/shudhanshu435/LeetCode/tree/master/0979-di-string-match) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/shudhanshu435/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/shudhanshu435/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
