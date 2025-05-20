@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/shudhanshu435/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shudhanshu435/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shudhanshu435/LeetCode/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/shudhanshu435/LeetCode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/shudhanshu435/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/shudhanshu435/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0059-spiral-matrix-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -391,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/shudhanshu435/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shudhanshu435/LeetCode/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/shudhanshu435/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/shudhanshu435/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0633-sum-of-square-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shudhanshu435/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
