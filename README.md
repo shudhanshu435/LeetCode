@@ -314,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shudhanshu435/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/shudhanshu435/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shudhanshu435/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/shudhanshu435/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0768-partition-labels](https://github.com/shudhanshu435/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/shudhanshu435/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -382,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/shudhanshu435/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shudhanshu435/LeetCode/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shudhanshu435/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/shudhanshu435/LeetCode/tree/master/0768-partition-labels) |
 | [0852-friends-of-appropriate-ages](https://github.com/shudhanshu435/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0868-push-dominoes](https://github.com/shudhanshu435/LeetCode/tree/master/0868-push-dominoes) |
@@ -605,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0513-find-bottom-left-tree-value](https://github.com/shudhanshu435/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shudhanshu435/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/shudhanshu435/LeetCode/tree/master/0542-01-matrix) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shudhanshu435/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/shudhanshu435/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/shudhanshu435/LeetCode/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/shudhanshu435/LeetCode/tree/master/0787-sliding-puzzle) |
@@ -672,6 +675,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0513-find-bottom-left-tree-value](https://github.com/shudhanshu435/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shudhanshu435/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shudhanshu435/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/shudhanshu435/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/shudhanshu435/LeetCode/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/shudhanshu435/LeetCode/tree/master/0820-find-eventual-safe-states) |
@@ -907,6 +911,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0513-find-bottom-left-tree-value](https://github.com/shudhanshu435/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shudhanshu435/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shudhanshu435/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shudhanshu435/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -923,6 +928,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0513-find-bottom-left-tree-value](https://github.com/shudhanshu435/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shudhanshu435/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shudhanshu435/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shudhanshu435/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1025,4 +1031,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0324-wiggle-sort-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shudhanshu435/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
