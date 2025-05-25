@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0926-find-and-replace-pattern](https://github.com/shudhanshu435/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/shudhanshu435/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-word-subsets](https://github.com/shudhanshu435/LeetCode/tree/master/0952-word-subsets) |
+| [0958-sort-array-by-parity-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/shudhanshu435/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [0979-di-string-match](https://github.com/shudhanshu435/LeetCode/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/shudhanshu435/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -414,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0868-push-dominoes](https://github.com/shudhanshu435/LeetCode/tree/master/0868-push-dominoes) |
 | [0875-longest-mountain-in-array](https://github.com/shudhanshu435/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0917-boats-to-save-people](https://github.com/shudhanshu435/LeetCode/tree/master/0917-boats-to-save-people) |
+| [0958-sort-array-by-parity-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/shudhanshu435/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [0979-di-string-match](https://github.com/shudhanshu435/LeetCode/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/shudhanshu435/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -447,6 +449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0808-number-of-matching-subsequences](https://github.com/shudhanshu435/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0852-friends-of-appropriate-ages](https://github.com/shudhanshu435/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0917-boats-to-save-people](https://github.com/shudhanshu435/LeetCode/tree/master/0917-boats-to-save-people) |
+| [0958-sort-array-by-parity-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/shudhanshu435/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [1019-squares-of-a-sorted-array](https://github.com/shudhanshu435/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shudhanshu435/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
