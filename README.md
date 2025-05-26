@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0958-sort-array-by-parity-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/shudhanshu435/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [0979-di-string-match](https://github.com/shudhanshu435/LeetCode/tree/master/0979-di-string-match) |
+| [1009-pancake-sorting](https://github.com/shudhanshu435/LeetCode/tree/master/1009-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/shudhanshu435/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/shudhanshu435/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/shudhanshu435/LeetCode/tree/master/1036-rotting-oranges) |
@@ -418,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0958-sort-array-by-parity-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/shudhanshu435/LeetCode/tree/master/0959-3sum-with-multiplicity) |
 | [0979-di-string-match](https://github.com/shudhanshu435/LeetCode/tree/master/0979-di-string-match) |
+| [1009-pancake-sorting](https://github.com/shudhanshu435/LeetCode/tree/master/1009-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/shudhanshu435/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/shudhanshu435/LeetCode/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shudhanshu435/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -451,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0917-boats-to-save-people](https://github.com/shudhanshu435/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0958-sort-array-by-parity-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/shudhanshu435/LeetCode/tree/master/0959-3sum-with-multiplicity) |
+| [1009-pancake-sorting](https://github.com/shudhanshu435/LeetCode/tree/master/1009-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/shudhanshu435/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shudhanshu435/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1488-sort-integers-by-the-power-value](https://github.com/shudhanshu435/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
@@ -626,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/shudhanshu435/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0917-boats-to-save-people](https://github.com/shudhanshu435/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0979-di-string-match](https://github.com/shudhanshu435/LeetCode/tree/master/0979-di-string-match) |
+| [1009-pancake-sorting](https://github.com/shudhanshu435/LeetCode/tree/master/1009-pancake-sorting) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/shudhanshu435/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/shudhanshu435/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/shudhanshu435/LeetCode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
