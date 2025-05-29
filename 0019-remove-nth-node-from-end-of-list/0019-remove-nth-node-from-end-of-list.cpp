@@ -20,13 +20,11 @@ public:
         ListNode*slow=head;
         ListNode* prev=new ListNode(0);
         while(fast){
-            prev->next=slow;
+            prev=slow;
             slow=slow->next;
             fast=fast->next;
-            prev=prev->next;
         }
         prev->next=slow->next;
-        // slow->next=t;
         return head;
     }
 };
