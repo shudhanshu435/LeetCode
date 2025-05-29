@@ -328,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/shudhanshu435/LeetCode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/shudhanshu435/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/shudhanshu435/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shudhanshu435/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -410,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/shudhanshu435/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/shudhanshu435/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/shudhanshu435/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0556-next-greater-element-iii](https://github.com/shudhanshu435/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shudhanshu435/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -936,6 +938,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/shudhanshu435/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/shudhanshu435/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shudhanshu435/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/shudhanshu435/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/shudhanshu435/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
