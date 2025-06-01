@@ -887,6 +887,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2998-count-symmetric-integers](https://github.com/shudhanshu435/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/shudhanshu435/LeetCode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shudhanshu435/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3201-distribute-candies-among-children-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/shudhanshu435/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/shudhanshu435/LeetCode/tree/master/3321-type-of-triangle) |
 | [3373-maximum-prime-difference](https://github.com/shudhanshu435/LeetCode/tree/master/3373-maximum-prime-difference) |
@@ -934,6 +935,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shudhanshu435/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2187-vowels-of-all-substrings](https://github.com/shudhanshu435/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/shudhanshu435/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3201-distribute-candies-among-children-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/shudhanshu435/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/shudhanshu435/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Enumeration
@@ -946,6 +948,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-finding-3-digit-even-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/shudhanshu435/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/shudhanshu435/LeetCode/tree/master/3046-minimum-operations-to-make-a-special-number) |
+| [3201-distribute-candies-among-children-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/shudhanshu435/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/shudhanshu435/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 ## Linked List
