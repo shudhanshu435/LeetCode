@@ -771,6 +771,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/shudhanshu435/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0386-lexicographical-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0513-find-bottom-left-tree-value](https://github.com/shudhanshu435/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shudhanshu435/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0572-subtree-of-another-tree) |
@@ -1087,6 +1088,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0386-lexicographical-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0808-number-of-matching-subsequences](https://github.com/shudhanshu435/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/shudhanshu435/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/shudhanshu435/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
