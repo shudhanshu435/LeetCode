@@ -25,12 +25,10 @@ public:
         while(k>0){
             int cnt=Count(curr_prefix, curr_prefix+1, n);
             if(cnt<=k){
-                //move to next prefix
                 curr_prefix+=1;
                 k-=cnt;
             }
             else{
-                //stay in same tree, go deeper
                 curr_prefix*=10;
                 k-=1;
             }
