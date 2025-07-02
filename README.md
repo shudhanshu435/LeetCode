@@ -425,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/shudhanshu435/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/shudhanshu435/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3905-partition-string](https://github.com/shudhanshu435/LeetCode/tree/master/3905-partition-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -622,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/shudhanshu435/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/shudhanshu435/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3905-partition-string](https://github.com/shudhanshu435/LeetCode/tree/master/3905-partition-string) |
 ## Matrix
 |  |
 | ------- |
@@ -675,6 +677,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shudhanshu435/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/shudhanshu435/LeetCode/tree/master/3447-clear-digits) |
+| [3905-partition-string](https://github.com/shudhanshu435/LeetCode/tree/master/3905-partition-string) |
 ## Greedy
 |  |
 | ------- |
@@ -1131,6 +1134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0808-number-of-matching-subsequences](https://github.com/shudhanshu435/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/shudhanshu435/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/shudhanshu435/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3905-partition-string](https://github.com/shudhanshu435/LeetCode/tree/master/3905-partition-string) |
 ## Rolling Hash
 |  |
 | ------- |
