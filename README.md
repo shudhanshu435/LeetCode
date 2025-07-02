@@ -204,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/shudhanshu435/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/shudhanshu435/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/shudhanshu435/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/shudhanshu435/LeetCode/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 ## Sliding Window
 |  |
 | ------- |
@@ -623,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/shudhanshu435/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/shudhanshu435/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/shudhanshu435/LeetCode/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3905-partition-string](https://github.com/shudhanshu435/LeetCode/tree/master/3905-partition-string) |
 ## Matrix
 |  |
