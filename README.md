@@ -942,6 +942,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/shudhanshu435/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0797-rabbits-in-forest](https://github.com/shudhanshu435/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/shudhanshu435/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1103-moving-stones-until-consecutive](https://github.com/shudhanshu435/LeetCode/tree/master/1103-moving-stones-until-consecutive) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shudhanshu435/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/shudhanshu435/LeetCode/tree/master/1500-count-largest-group) |
@@ -1180,6 +1181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shudhanshu435/LeetCode/tree/master/0292-nim-game) |
+| [1103-moving-stones-until-consecutive](https://github.com/shudhanshu435/LeetCode/tree/master/1103-moving-stones-until-consecutive) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/shudhanshu435/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Union Find
 |  |
