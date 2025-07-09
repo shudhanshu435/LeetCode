@@ -15,13 +15,11 @@ public:
         // for(auto &i:mp)cout<<i.first<<" "<<i.second<<" "<<endl;
         for(auto &m:mp){
             int val=m.first;
-            if(mp.count(val-k)){
-                s.insert({val-k,val});
+            if(mp.count(val+k)){
+                ans++;
             }
-            if(mp.count(k+val)){
-                s.insert({val,val+k});
-            }
+
         }
-        return s.size();
+        return ans;
     }
 };
