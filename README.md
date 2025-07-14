@@ -950,6 +950,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/shudhanshu435/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/shudhanshu435/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1103-moving-stones-until-consecutive](https://github.com/shudhanshu435/LeetCode/tree/master/1103-moving-stones-until-consecutive) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shudhanshu435/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shudhanshu435/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/shudhanshu435/LeetCode/tree/master/1500-count-largest-group) |
@@ -1057,6 +1058,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/shudhanshu435/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/shudhanshu435/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shudhanshu435/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shudhanshu435/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/shudhanshu435/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/shudhanshu435/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shudhanshu435/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
