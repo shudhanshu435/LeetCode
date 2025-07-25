@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/shudhanshu435/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/shudhanshu435/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/shudhanshu435/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/shudhanshu435/LeetCode/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/shudhanshu435/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Sliding Window
@@ -452,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/shudhanshu435/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/shudhanshu435/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/shudhanshu435/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3905-partition-string](https://github.com/shudhanshu435/LeetCode/tree/master/3905-partition-string) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/shudhanshu435/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Two Pointers
@@ -774,6 +776,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/shudhanshu435/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/shudhanshu435/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Breadth-First Search
 |  |
 | ------- |
