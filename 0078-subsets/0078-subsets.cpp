@@ -1,21 +1,21 @@
 class Solution {
 public:
-    void gensubsets(vector<int>&nums, int index, vector<int>subset, vector<vector<int>>&sset){
-        if(index==nums.size()){
-            // sset.push_back(subset);
-            if(find(sset.begin(),sset.end(),subset)==sset.end())sset.push_back(subset);
+    void solve(vector<vector<int>>&vec, vector<int>v, vector<int>& nums, int ind){
+        if(ind==nums.size()){
+            vec.push_back(v);
             return;
         }
+        solve(vec,v,nums,ind+1);
+        v.push_back(nums[ind]);
+        solve(vec,v,nums,ind+1);
+        v.pop_back();
 
-        subset.push_back(nums[index]);
-        gensubsets(nums,index+1,subset,sset);
-        subset.pop_back();
-        gensubsets(nums,index+1,subset,sset);
+        return;
     }
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>>sub;
-        gensubsets(nums,0,{},sub);
-        return sub;
-
+        vector<vector<int>>vec;
+        vector<int>v;
+        solve(vec,v,nums,0);
+        return vec;
     }
 };
