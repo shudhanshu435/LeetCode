@@ -1,21 +1,16 @@
 class Solution {
 public:
     int maxSum(vector<int>& nums) {
-        unordered_set<int>s;
-        for(int i=0;i<nums.size();i++){
-            s.insert(nums[i]);
-        }
-        int ngmx=INT_MIN,sum=0,c=0;
-        for(auto &i:s){
-            if(i<0){
-                ngmx=max(ngmx,i);
-            }
-            else {
-                sum+=i;
-                c++;
+        sort(nums.begin(),nums.end());
+        int sum=0;
+        int n=nums.size();
+        if(nums[n-1]<0)return nums[n-1];
+        for(int i=1;i<nums.size();i++){
+            if(nums[i]>=0 and nums[i]!=nums[i-1]){
+                sum+=nums[i];
             }
         }
-        if(c!=0)return sum;
-        return ngmx;
+        if(nums[0]>0)sum+=nums[0];
+        return sum;
     }
 };
