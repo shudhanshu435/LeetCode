@@ -1,68 +1,24 @@
 class Solution {
 public:
+    void backtrack(string &dig, int index, string c, vector<string>&ans, vector<string>&mp){
+        if(index==dig.size()){
+            ans.push_back(c);
+            return;
+        }
+
+        string word=mp[dig[index]-'0'];
+        for(char cc:word){
+            c+=cc;
+            backtrack(dig, index+1, c, ans, mp);
+            c.pop_back();
+        }
+    }
     vector<string> letterCombinations(string digits) {
-        vector<pair<char,string>>vp={{'2',"abc"},{'3',"def"},{'4',"ghi"},{'5',"jkl"},{'6',"mno"},{'7',"pqrs"},{'8',"tuv"},{'9',"wxyz"}};
-        vector<string>v;
-        if(digits.size()==0)return {};
-        if(digits.size()==1){
-            for(auto &i:vp[(digits[0]-'0')-2].second){
-                string s;
-                s+=i;
-                v.push_back(s);
-            }
-            return v;
-        }
-        if(digits.size()==2){
-            for(auto &i:vp[(digits[0]-'0')-2].second){
-                string s;
-                s+=i;
-                for(auto &j:vp[(digits[1]-'0')-2].second){
-                    s+=j;
-                    v.push_back(s);
-                    s.pop_back();
-                }
-                
-            }
-            return v;
-        }
-
-        if(digits.size()==3){
-            for(auto &i:vp[(digits[0]-'0')-2].second){
-                string s;
-                s+=i;
-                for(auto &j:vp[(digits[1]-'0')-2].second){
-                    s+=j;
-                    for(auto &k:vp[(digits[2]-'0')-2].second){
-                        s+=k;
-                        v.push_back(s);
-                        s.pop_back();
-                    }
-                    s.pop_back();
-                }
-            }
-            return v;
-        }
-
-        if(digits.size()==4){
-            for(auto &i:vp[(digits[0]-'0')-2].second){
-                string s;
-                s+=i;
-                for(auto &j:vp[(digits[1]-'0')-2].second){
-                    s+=j;
-                    for(auto &k:vp[(digits[2]-'0')-2].second){
-                        s+=k;
-                        for(auto &m:vp[(digits[3]-'0')-2].second){
-                            s+=m;
-                            v.push_back(s);
-                            s.pop_back();
-                        }
-                        s.pop_back();
-                    }
-                    s.pop_back();
-                }
-            }
-            return v;
-        }
-        return {};
+        if(digits.empty())return {};
+        vector<string>v={"", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
+        vector<string>ans;
+        string c="";
+        backtrack(digits, 0, c, ans, v);
+        return ans;
     }
 };
