@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/shudhanshu435/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shudhanshu435/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/shudhanshu435/LeetCode/tree/master/0078-subsets) |
+| [0118-pascals-triangle](https://github.com/shudhanshu435/LeetCode/tree/master/0118-pascals-triangle) |
 | [0219-contains-duplicate-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/shudhanshu435/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/shudhanshu435/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -925,6 +926,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/shudhanshu435/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/shudhanshu435/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0091-decode-ways](https://github.com/shudhanshu435/LeetCode/tree/master/0091-decode-ways) |
+| [0118-pascals-triangle](https://github.com/shudhanshu435/LeetCode/tree/master/0118-pascals-triangle) |
 | [0313-super-ugly-number](https://github.com/shudhanshu435/LeetCode/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/shudhanshu435/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/shudhanshu435/LeetCode/tree/master/0376-wiggle-subsequence) |
