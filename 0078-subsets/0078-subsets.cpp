@@ -1,21 +1,21 @@
 class Solution {
 public:
-    void solve(vector<vector<int>>&vec, vector<int>&v, vector<int>& nums, int ind){
-        if(ind==nums.size()){
-            vec.push_back(v);
+    void backtrack(vector<int>&nums, int index, vector<int>&v, set<vector<int>>&vec){
+        if(index==nums.size()){
+            vec.insert(v);
             return;
         }
-        solve(vec,v,nums,ind+1);
-        v.push_back(nums[ind]);
-        solve(vec,v,nums,ind+1);
+        v.push_back(nums[index]);
+        backtrack(nums,index+1,v,vec);
         v.pop_back();
-
-        return;
+        backtrack(nums,index+1,v,vec);
     }
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>>vec;
+        set<vector<int>>vec;
         vector<int>v;
-        solve(vec,v,nums,0);
-        return vec;
+        backtrack(nums,0,v,vec);
+        
+        vector<vector<int>>vv(vec.begin(),vec.end());
+        return vv;
     }
 };
