@@ -957,6 +957,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/shudhanshu435/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/shudhanshu435/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0808-number-of-matching-subsequences](https://github.com/shudhanshu435/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [0826-soup-servings](https://github.com/shudhanshu435/LeetCode/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/shudhanshu435/LeetCode/tree/master/0868-push-dominoes) |
 | [0875-longest-mountain-in-array](https://github.com/shudhanshu435/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shudhanshu435/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -1009,6 +1010,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/shudhanshu435/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0797-rabbits-in-forest](https://github.com/shudhanshu435/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/shudhanshu435/LeetCode/tree/master/0826-soup-servings) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/shudhanshu435/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1103-moving-stones-until-consecutive](https://github.com/shudhanshu435/LeetCode/tree/master/1103-moving-stones-until-consecutive) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shudhanshu435/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1333,4 +1335,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shudhanshu435/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/shudhanshu435/LeetCode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
