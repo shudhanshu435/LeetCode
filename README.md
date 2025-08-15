@@ -926,6 +926,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/shudhanshu435/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/shudhanshu435/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/shudhanshu435/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/shudhanshu435/LeetCode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/shudhanshu435/LeetCode/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/shudhanshu435/LeetCode/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/2050-count-good-numbers) |
@@ -1011,6 +1012,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0292-nim-game](https://github.com/shudhanshu435/LeetCode/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/shudhanshu435/LeetCode/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/shudhanshu435/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/shudhanshu435/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/shudhanshu435/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/shudhanshu435/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0372-super-pow](https://github.com/shudhanshu435/LeetCode/tree/master/0372-super-pow) |
@@ -1083,6 +1085,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/shudhanshu435/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/shudhanshu435/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/shudhanshu435/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/shudhanshu435/LeetCode/tree/master/0342-power-of-four) |
 | [0861-flipping-an-image](https://github.com/shudhanshu435/LeetCode/tree/master/0861-flipping-an-image) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/shudhanshu435/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1281-can-make-palindrome-from-substring](https://github.com/shudhanshu435/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
