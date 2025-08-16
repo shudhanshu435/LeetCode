@@ -1,20 +1,18 @@
 class Solution {
 public:
     string largestGoodInteger(string num) {
+        char ch='.';
+        for(int i=0;i<num.size()-2;i++){
+            if(num[i]==num[i+1] and num[i+1]==num[i+2]){
+                ch=max(ch,num[i]);
+                i+=2;
+            }
+        }
         string s="";
-        string ss;
-        int cnt=0;
-        for(int i=1;i<num.length()-1;i++){
-            if((num[i-1]==num[i]) && (num[i]==num[i+1])){s+=num[i];
-            cnt++;
-        }
-        }
-        if(cnt==0)return ss;
-        sort(s.begin(),s.end());
-        cout<<s[s.length()-1]<<endl;
-        ss+=s.substr(s.length()-1,1);
-        ss+=s.substr(s.length()-1,1);
-        ss+=s.substr(s.length()-1,1);
-        return ss;
+        s+=ch;
+        s+=ch;
+        s+=ch;
+        if(ch!='.')return s;
+        return "";
     }
 };
