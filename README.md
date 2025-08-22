@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/shudhanshu435/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/shudhanshu435/LeetCode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/shudhanshu435/LeetCode/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/shudhanshu435/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/shudhanshu435/LeetCode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -1099,6 +1100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/shudhanshu435/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/shudhanshu435/LeetCode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/shudhanshu435/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/shudhanshu435/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/shudhanshu435/LeetCode/tree/master/0260-single-number-iii) |
