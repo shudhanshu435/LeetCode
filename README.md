@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1510-find-lucky-integer-in-an-array](https://github.com/shudhanshu435/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/shudhanshu435/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shudhanshu435/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shudhanshu435/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shudhanshu435/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/shudhanshu435/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shudhanshu435/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/shudhanshu435/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/shudhanshu435/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shudhanshu435/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shudhanshu435/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/shudhanshu435/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/shudhanshu435/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/shudhanshu435/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -992,6 +994,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shudhanshu435/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/shudhanshu435/LeetCode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1488-sort-integers-by-the-power-value](https://github.com/shudhanshu435/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shudhanshu435/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/shudhanshu435/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shudhanshu435/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/shudhanshu435/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
