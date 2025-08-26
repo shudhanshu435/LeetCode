@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3194-find-words-containing-character](https://github.com/shudhanshu435/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/shudhanshu435/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/shudhanshu435/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/shudhanshu435/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/shudhanshu435/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shudhanshu435/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/shudhanshu435/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
