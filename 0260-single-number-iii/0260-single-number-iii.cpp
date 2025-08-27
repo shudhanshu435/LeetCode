@@ -2,18 +2,17 @@ class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
         int x=0;
-        for(auto i:nums)x=x^i;
-        int pos=0;
+        for(auto i:nums)x^=i;
+        int k=0;
         while(x%2==0){
-            x>>=1;
-            pos++;
+            k++;
+            x/=2;
         }
-        // cout<<pos<<endl;
         int a=0,b=0;
-        for(auto i:nums){
-            if((i&(1<<pos)))a=a^i;
-            else b=b^i;
+        for(int i=0;i<nums.size();i++){
+            if(nums[i]&(1<<k))a^=nums[i];
+            else b^=nums[i];
         }
-        return {min(a,b),max(a,b)};
+        return {a,b};
     }
 };
