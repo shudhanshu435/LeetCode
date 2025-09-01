@@ -1,35 +1,31 @@
+using p = pair<double, pair<int, int>>;
 class Solution {
 public:
-    #define P pair<double,int>
-    double maxAverageRatio(vector<vector<int>>& classes, int extraStudents) {
-        priority_queue<P> pq; //max-heap //(max-delta, idx}
+    double maxAverageRatio(vector<vector<int>>& classes, int ex) {
+        priority_queue<p>pq;
         int n=classes.size();
-
-        for(int i=0; i < n; i++) { //O(n)
-            double current_PR = (double)classes[i][0]/classes[i][1];
-            double new_PR = (double)(classes[i][0]+1)/(classes[i][1]+1);
-            double delta = new_PR-current_PR;
-            pq.push({delta, i});
+        for(auto i:classes){
+            int a=i[0],b=i[1];
+            double curr=(double)a/b;
+            double inc=((double)(a+1)/(b+1))-curr;
+            pq.push(make_pair(inc,make_pair(a,b)));
         }
-
-        //t.c = (extrastudents*logn)
-        while(extraStudents--) { //O(k)
-            auto curr = pq.top();
-            pq.pop(); //O(logn)
-            double delta = curr.first;
-            int idx= curr.second;
-            classes[idx][0]++; //incremeent total passing students in the class
-            classes[idx][1]++; //increment total students oin the class
-            double current_PR = (double)classes[idx][0]/classes[idx][1];
-            double new_PR = (double)(classes[idx][0]+1)/(classes[idx][1]+1);
-            delta = new_PR-current_PR;
-            pq.push({delta, idx}); //O(logn)
+        while(ex--){
+            double t=pq.top().first;
+            int a=pq.top().second.first;
+            int b=pq.top().second.second;
+            pq.pop();
+            a++;b++;
+            double inc=((double)(a+1)/(b+1))-(double)a/b;
+            pq.push(make_pair(inc,make_pair(a,b)));
         }
-
-        double result = 0.0;
-        for(int i=0;i<n;i++){
-            result+=(double)classes[i][0]/classes[i][1];
+        double ans=0.00000;
+        while(!pq.empty()){
+            int a=pq.top().second.first;
+            int b=pq.top().second.second;
+            ans+=(double)a/b;
+            pq.pop();
         }
-        return result/n;
+        return ans/n;
     }
 };
