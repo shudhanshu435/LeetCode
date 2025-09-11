@@ -608,6 +608,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2689-rearranging-fruits](https://github.com/shudhanshu435/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/shudhanshu435/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/shudhanshu435/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2887-sort-vowels-in-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/shudhanshu435/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shudhanshu435/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -702,6 +703,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/shudhanshu435/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/shudhanshu435/LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/shudhanshu435/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2887-sort-vowels-in-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/shudhanshu435/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/shudhanshu435/LeetCode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
