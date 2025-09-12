@@ -717,6 +717,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/shudhanshu435/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/shudhanshu435/LeetCode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/shudhanshu435/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3462-vowels-game-in-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/shudhanshu435/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3567-convert-date-to-binary](https://github.com/shudhanshu435/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -1105,6 +1106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3279-alice-and-bob-playing-flower-game](https://github.com/shudhanshu435/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/shudhanshu435/LeetCode/tree/master/3321-type-of-triangle) |
 | [3373-maximum-prime-difference](https://github.com/shudhanshu435/LeetCode/tree/master/3373-maximum-prime-difference) |
+| [3462-vowels-game-in-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shudhanshu435/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3548-find-the-count-of-good-integers](https://github.com/shudhanshu435/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3567-convert-date-to-binary](https://github.com/shudhanshu435/LeetCode/tree/master/3567-convert-date-to-binary) |
@@ -1353,6 +1355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1103-moving-stones-until-consecutive](https://github.com/shudhanshu435/LeetCode/tree/master/1103-moving-stones-until-consecutive) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/shudhanshu435/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/shudhanshu435/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3462-vowels-game-in-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Union Find
 |  |
 | ------- |
@@ -1399,6 +1402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shudhanshu435/LeetCode/tree/master/0292-nim-game) |
+| [3462-vowels-game-in-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Database
 |  |
 | ------- |
