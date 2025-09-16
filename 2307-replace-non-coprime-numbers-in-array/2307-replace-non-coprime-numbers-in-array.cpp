@@ -5,27 +5,19 @@ public:
         for(auto i:nums){
             if(s.empty())s.push(i);
             else{
-                int t=s.top();
-                int g=__gcd(t,i);
-                if(g!=1){
-                    s.pop();
-                    s.push((t*1ll*i)/g);
-                    while(s.size()>=2){
-                        int t1=s.top();
+                long long one=i;
+                while(!s.empty()){
+                    long long top_=s.top();
+                    int g=__gcd(one,top_);
+                    if(g!=1){
                         s.pop();
-                        int t2=s.top();
-                        int gg=__gcd(t1,t2);
-                        if(gg!=1){
-                            s.pop();
-                            s.push((t1*1ll*t2)/gg);
-                        }
-                        else{
-                            s.push(t1);
-                            break;
-                        }
+                        one=(one*1ll*top_)/g;
+                    }
+                    else {
+                        break;
                     }
                 }
-                else s.push(i);
+                s.push(one);
             }
         }
         int size=s.size();
