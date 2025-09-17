@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/shudhanshu435/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/shudhanshu435/LeetCode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/shudhanshu435/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/shudhanshu435/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/shudhanshu435/LeetCode/tree/master/0313-super-ugly-number) |
 | [0324-wiggle-sort-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0368-largest-divisible-subset](https://github.com/shudhanshu435/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/shudhanshu435/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0278-first-bad-version](https://github.com/shudhanshu435/LeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/shudhanshu435/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/shudhanshu435/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/shudhanshu435/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shudhanshu435/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -1001,6 +1003,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/shudhanshu435/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0091-decode-ways](https://github.com/shudhanshu435/LeetCode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/shudhanshu435/LeetCode/tree/master/0118-pascals-triangle) |
+| [0300-longest-increasing-subsequence](https://github.com/shudhanshu435/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/shudhanshu435/LeetCode/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/shudhanshu435/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0376-wiggle-subsequence](https://github.com/shudhanshu435/LeetCode/tree/master/0376-wiggle-subsequence) |
