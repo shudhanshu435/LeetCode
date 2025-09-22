@@ -1,47 +1,50 @@
 class Spreadsheet {
-    vector<vector<int>> vec;
-    int col(char c){ 
-        return (c-'A');
-    }
-    int row(string s) { 
-        return stoi(s.substr(1))-1; 
-    }
 public:
-    Spreadsheet(int rows){
-        vec=vector<vector<int>>(rows);
-        for(int i=0;i<rows;i++){
-            vec[i]=vector<int>(26,0);
+    pair<int,int> func(string cell){
+        int c=cell[0]-'A';
+        int num=0;
+        for(int i=1;i<cell.size();i++){
+            num=(num*10)+(cell[i]-'0');
         }
+        return {num,c};
+    }
+    vector<vector<int>>vec;
+    Spreadsheet(int rows) {
+        vec.assign(rows,vector<int>(26,0));
     }
     
     void setCell(string cell, int value) {
-        int c=col(cell[0]),r=row(cell);
-        vec[r][c]=value;
+        pair<int,int>p=func(cell);
+        vec[p.first-1][p.second]=value;
     }
     
     void resetCell(string cell) {
-        int c=col(cell[0]),r=row(cell);
-        vec[r][c]=0;
-        
+        pair<int,int>p=func(cell);
+        vec[p.first-1][p.second]=0;
     }
     
-    int getValue(string f) {
-        if(f[0]!='=')return stoi(f);
-        f=f.substr(1);
-        stringstream ss(f);
-        string str;
-        int ans=0;
-        while(getline(ss,str,'+')){ 
-            if(isdigit(str.front())){
-                ans+=stoi(str);
+    int getValue(string formula) {
+        int num1=0,num2=0;
+        string a="";
+        int i;
+        for(i=1;i<formula.size();i++){
+            if(formula[i]!='+'){
+                a+=formula[i];
             }
-            else{
-                int r=row(str);
-                int c=col(str[0]);
-                ans+=vec[r][c];
-            }
+            else break;
         }
-        return ans;
+        if(a[0]>='A' and a[0]<='Z'){
+            pair<int,int>p=func(a);
+            num1=vec[p.first-1][p.second];
+        }
+        else num1=stoi(a);
+        a=formula.substr(i+1);
+        if(a[0]>='A' and a[0]<='Z'){
+            pair<int,int>p=func(a);
+            num2=vec[p.first-1][p.second];
+        }
+        else num2=stoi(a);
+        return num1+num2;
     }
 };
 
