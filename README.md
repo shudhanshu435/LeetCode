@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/shudhanshu435/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/shudhanshu435/LeetCode/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/shudhanshu435/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/shudhanshu435/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/shudhanshu435/LeetCode/tree/master/0679-24-game) |
 | [0695-max-area-of-island](https://github.com/shudhanshu435/LeetCode/tree/master/0695-max-area-of-island) |
 | [0697-degree-of-an-array](https://github.com/shudhanshu435/LeetCode/tree/master/0697-degree-of-an-array) |
@@ -311,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/shudhanshu435/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/shudhanshu435/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shudhanshu435/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0611-valid-triangle-number](https://github.com/shudhanshu435/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/shudhanshu435/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0808-number-of-matching-subsequences](https://github.com/shudhanshu435/LeetCode/tree/master/0808-number-of-matching-subsequences) |
@@ -557,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0457-circular-array-loop](https://github.com/shudhanshu435/LeetCode/tree/master/0457-circular-array-loop) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shudhanshu435/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0556-next-greater-element-iii](https://github.com/shudhanshu435/LeetCode/tree/master/0556-next-greater-element-iii) |
+| [0611-valid-triangle-number](https://github.com/shudhanshu435/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shudhanshu435/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -608,6 +611,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/shudhanshu435/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shudhanshu435/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/shudhanshu435/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/shudhanshu435/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/shudhanshu435/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shudhanshu435/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0807-custom-sort-string](https://github.com/shudhanshu435/LeetCode/tree/master/0807-custom-sort-string) |
@@ -839,6 +843,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/shudhanshu435/LeetCode/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0376-wiggle-subsequence](https://github.com/shudhanshu435/LeetCode/tree/master/0376-wiggle-subsequence) |
+| [0611-valid-triangle-number](https://github.com/shudhanshu435/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/shudhanshu435/LeetCode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shudhanshu435/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
