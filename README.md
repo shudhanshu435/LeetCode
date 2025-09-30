@@ -561,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/shudhanshu435/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/shudhanshu435/LeetCode/tree/master/0443-string-compression) |
 | [0457-circular-array-loop](https://github.com/shudhanshu435/LeetCode/tree/master/0457-circular-array-loop) |
+| [0481-magical-string](https://github.com/shudhanshu435/LeetCode/tree/master/0481-magical-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/shudhanshu435/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0556-next-greater-element-iii](https://github.com/shudhanshu435/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0611-valid-triangle-number](https://github.com/shudhanshu435/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -685,6 +686,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/shudhanshu435/LeetCode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/shudhanshu435/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/shudhanshu435/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0481-magical-string](https://github.com/shudhanshu435/LeetCode/tree/master/0481-magical-string) |
 | [0556-next-greater-element-iii](https://github.com/shudhanshu435/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/shudhanshu435/LeetCode/tree/master/0686-repeated-string-match) |
