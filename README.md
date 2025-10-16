@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2634-minimum-common-value](https://github.com/shudhanshu435/LeetCode/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shudhanshu435/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/shudhanshu435/LeetCode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/shudhanshu435/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/shudhanshu435/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/shudhanshu435/LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2681-put-marbles-in-bags](https://github.com/shudhanshu435/LeetCode/tree/master/2681-put-marbles-in-bags) |
@@ -513,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2626-count-the-number-of-good-subarrays](https://github.com/shudhanshu435/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2634-minimum-common-value](https://github.com/shudhanshu435/LeetCode/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shudhanshu435/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/shudhanshu435/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/shudhanshu435/LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2685-first-completely-painted-row-or-column](https://github.com/shudhanshu435/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/shudhanshu435/LeetCode/tree/master/2689-rearranging-fruits) |
@@ -904,6 +906,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/shudhanshu435/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/shudhanshu435/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/shudhanshu435/LeetCode/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/shudhanshu435/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/shudhanshu435/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/shudhanshu435/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/shudhanshu435/LeetCode/tree/master/3046-minimum-operations-to-make-a-special-number) |
@@ -1178,6 +1181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2610-closest-prime-numbers-in-range](https://github.com/shudhanshu435/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/shudhanshu435/LeetCode/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2649-count-total-number-of-colored-cells](https://github.com/shudhanshu435/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/shudhanshu435/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/shudhanshu435/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/shudhanshu435/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/shudhanshu435/LeetCode/tree/master/3046-minimum-operations-to-make-a-special-number) |
