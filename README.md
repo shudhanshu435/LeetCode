@@ -713,6 +713,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/shudhanshu435/LeetCode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/shudhanshu435/LeetCode/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shudhanshu435/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/shudhanshu435/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/shudhanshu435/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/shudhanshu435/LeetCode/tree/master/0443-string-compression) |
@@ -1171,6 +1172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/shudhanshu435/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0372-super-pow](https://github.com/shudhanshu435/LeetCode/tree/master/0372-super-pow) |
 | [0390-elimination-game](https://github.com/shudhanshu435/LeetCode/tree/master/0390-elimination-game) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/shudhanshu435/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0492-construct-the-rectangle](https://github.com/shudhanshu435/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0556-next-greater-element-iii](https://github.com/shudhanshu435/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -1267,6 +1269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0260-single-number-iii](https://github.com/shudhanshu435/LeetCode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/shudhanshu435/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/shudhanshu435/LeetCode/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/shudhanshu435/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0861-flipping-an-image](https://github.com/shudhanshu435/LeetCode/tree/master/0861-flipping-an-image) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/shudhanshu435/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1281-can-make-palindrome-from-substring](https://github.com/shudhanshu435/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
