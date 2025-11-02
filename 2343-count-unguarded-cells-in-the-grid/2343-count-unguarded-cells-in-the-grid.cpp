@@ -1,61 +1,49 @@
 class Solution {
 public:
     int countUnguarded(int m, int n, vector<vector<int>>& guards, vector<vector<int>>& walls) {
-        vector<vector<int>>visited(m, vector<int>(n,0));
-        for(auto v:guards){
-            int l=v[0];
-            int r=v[1];
-            visited[l][r]=2;
+        vector<vector<int>>vec(m,vector<int>(n,0));
+        for(auto &i:guards)vec[i[0]][i[1]]=1;
+        for(auto &i:walls)vec[i[0]][i[1]]=2;
+
+        for(int i=0;i<m;i++){
+            bool seen=false;
+            for(int j=0;j<n;j++){
+                if(vec[i][j]==1)seen=true;
+                else if(vec[i][j]==2)seen=false;
+                else if(seen)vec[i][j]=-1;
+            }
+            seen=false;
+            for(int j=n-1;j>=0;j--){
+                if(vec[i][j]==1)seen=true;
+                else if(vec[i][j]==2)seen=false;
+                else if(seen)vec[i][j]=-1;
+            }
         }
-        for(auto v:walls){
-            int l=v[0];
-            int r=v[1];
-            visited[l][r]=3;
-        }
 
-        for(auto v:guards){
-            int i=v[0],j=v[1];
-            
-            int a=i-1;
-            int b=j;
-            while(a>=0){
-                if(visited[a][b]==0)visited[a][b]=1;
-                else if(visited[a][b]==2 or visited[a][b]==3)break;
-                a--;
+        for(int i=0;i<n;i++){
+            bool seen=false;
+            for(int j=0;j<m;j++){
+                if(vec[j][i]==1)seen=true;
+                else if(vec[j][i]==2)seen=false;
+                else if(seen)vec[j][i]=-1;
             }
-
-            a=i+1;
-            b=j;
-            while(a<m){
-                if(visited[a][b]==0)visited[a][b]=1;
-                else if(visited[a][b]==2 or visited[a][b]==3)break;
-                a++;
+            seen=false;
+            for(int j=m-1;j>=0;j--){
+                if(vec[j][i]==1)seen=true;
+                else if(vec[j][i]==2)seen=false;
+                else if(seen)vec[j][i]=-1;
             }
-
-            a=i;
-            b=j-1;
-            while(b>=0){
-                if(visited[a][b]==0)visited[a][b]=1;
-                else if(visited[a][b]==2 or visited[a][b]==3)break;
-                b--;
-            }
-
-            a=i;
-            b=j+1;
-            while(b<n){
-                if(visited[a][b]==0)visited[a][b]=1;
-                else if(visited[a][b]==2 or visited[a][b]==3)break;
-                b++;
-            }
-
         }
 
         int cnt=0;
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(visited[i][j]==0)cnt++;
+        for(auto i:vec){
+            for(auto j:i){
+                if(j==0)cnt++;
+                cout<<j<<" ";
             }
+            cout<<endl;
         }
         return cnt;
+
     }
 };
