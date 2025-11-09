@@ -884,6 +884,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2197-decode-the-slanted-ciphertext](https://github.com/shudhanshu435/LeetCode/tree/master/2197-decode-the-slanted-ciphertext) |
 | [2232-adding-spaces-to-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shudhanshu435/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2288-count-operations-to-obtain-zero](https://github.com/shudhanshu435/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/shudhanshu435/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/shudhanshu435/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/shudhanshu435/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -1219,6 +1220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2174-next-greater-numerically-balanced-number](https://github.com/shudhanshu435/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2187-vowels-of-all-substrings](https://github.com/shudhanshu435/LeetCode/tree/master/2187-vowels-of-all-substrings) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/shudhanshu435/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/shudhanshu435/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shudhanshu435/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/shudhanshu435/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/shudhanshu435/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
