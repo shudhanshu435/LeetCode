@@ -1,34 +1,30 @@
 class Solution {
 public:
-    int solve(vector<string>& strs, int ind, int m, int n, vector<vector<vector<int>>> &dp){
-        if(ind==strs.size())return 0;
-        if(dp[ind][m][n]!=-1)return dp[ind][m][n];
+    int dp[601][101][101];
+    int cnt(string &s){
+        return count(s.begin(),s.end(),'1');
+    }
+    int rec(vector<pair<int,int>>&vp, int one, int zero, int m, int n, int idx){
+        if(vp.size()==idx)return 0;
+        if(dp[idx][one][zero]!=-1)return dp[idx][one][zero];
 
-        int zero=count(strs[ind].begin(),strs[ind].end(),'0');
-        int one=strs[ind].size()-zero;
+        //skip
+        int ans= rec(vp,one,zero,m,n,idx+1);
 
-        //not pick
-        int notpick=solve(strs,ind+1,m,n,dp);
+        //not skip if possible
+        if(one+vp[idx].first<=n and zero+vp[idx].second<=m)
+            dp[idx][one][zero]= max(ans,1+rec(vp,one+vp[idx].first,zero+vp[idx].second,m,n,idx+1));
 
-        //pick
-        int pick=0;
-        if(m>=zero and n>=one){
-            pick=1+solve(strs,ind+1,m-zero,n-one,dp);
-        }
-
-        return dp[ind][m][n]=max(pick,notpick);
+        return dp[idx][one][zero]=max(ans,dp[idx][one][zero]);
     }
     int findMaxForm(vector<string>& strs, int m, int n) {
-        int size=strs.size();
-        vector<vector<vector<int>>>dp(size, vector<vector<int>>(m+1, vector<int>(n+1,-1)));
-        return solve(strs,0,m,n,dp);
+        vector<pair<int,int>>vp;
+        for(auto &i:strs){
+            int nn=cnt(i);
+            vp.push_back({nn,i.size()-nn});
+        }
+        memset(dp,-1,sizeof(dp));
+        return rec(vp,0,0,m,n,0);
+        return 0;
     }
 };
-
-/*
-
-"10","0001","111001","1","0"
-0-1   0-3    0-2     0-0  0-1
-1-1   1-1    1-4     1-1  1-0
-
-*/
