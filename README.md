@@ -819,6 +819,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3455-minimum-length-of-string-after-operations](https://github.com/shudhanshu435/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/shudhanshu435/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/shudhanshu435/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3567-convert-date-to-binary](https://github.com/shudhanshu435/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/shudhanshu435/LeetCode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
@@ -961,6 +962,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/shudhanshu435/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/shudhanshu435/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/shudhanshu435/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/shudhanshu435/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/shudhanshu435/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/shudhanshu435/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -1403,6 +1405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shudhanshu435/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/shudhanshu435/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/shudhanshu435/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/shudhanshu435/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/shudhanshu435/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/shudhanshu435/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
