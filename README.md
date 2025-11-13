@@ -721,6 +721,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shudhanshu435/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/shudhanshu435/LeetCode/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/shudhanshu435/LeetCode/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/shudhanshu435/LeetCode/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/shudhanshu435/LeetCode/tree/master/0091-decode-ways) |
 | [0165-compare-version-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/0165-compare-version-numbers) |
@@ -913,6 +914,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shudhanshu435/LeetCode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/shudhanshu435/LeetCode/tree/master/0044-wildcard-matching) |
 | [0324-wiggle-sort-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0376-wiggle-subsequence](https://github.com/shudhanshu435/LeetCode/tree/master/0376-wiggle-subsequence) |
 | [0611-valid-triangle-number](https://github.com/shudhanshu435/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -1091,6 +1093,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/shudhanshu435/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/shudhanshu435/LeetCode/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/shudhanshu435/LeetCode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/shudhanshu435/LeetCode/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/shudhanshu435/LeetCode/tree/master/0224-basic-calculator) |
@@ -1122,6 +1125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shudhanshu435/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/shudhanshu435/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/shudhanshu435/LeetCode/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/shudhanshu435/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/shudhanshu435/LeetCode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/shudhanshu435/LeetCode/tree/master/0118-pascals-triangle) |
