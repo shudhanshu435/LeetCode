@@ -1,32 +1,27 @@
 class Solution {
 public:
-    int maxi(vector<int>&v){
-        int maxx=0,one=0;
-        for(auto &i:v){
-            if(i==1)one++;
-            else{
-                maxx=max(maxx,one);
-                one=0;
-            }
-        }
-        return max(maxx,one);
-    }
+
     int maximalSquare(vector<vector<char>>& mat) {
         int n=mat.size();
         int m=mat[0].size();
         int ans=0;
-        vector<int>v;
+        vector<vector<int>>dp(n,vector<int>(m));
         for(int i=0;i<n;i++){
-            v.clear();
-            for(auto &i:mat[i])v.push_back(i-'0');
-            if(maxi(v)>=1)ans=max(ans,1*1);
-            for(int j=i+1;j<n;j++){
-                for(int k=0;k<m;k++){
-                    v[k]=v[k] & (mat[j][k]-'0');
-                }
-                if(maxi(v)>=j-i+1)ans=max(ans,(j-i+1)*(j-i+1));
+            dp[i][0]=(mat[i][0]-'0');
+            ans=max(ans,dp[i][0]);
+        }
+        for(int i=0;i<m;i++){
+            dp[0][i]=(mat[0][i]-'0');
+            ans=max(ans,dp[0][i]);
+        }
+        for(int i=1;i<n;i++){
+            for(int j=1;j<m;j++){
+                if(mat[i][j]=='0')dp[i][j]=0;
+                else dp[i][j]=min({dp[i-1][j],dp[i][j-1],dp[i-1][j-1]})+1;
+                ans=max(ans,dp[i][j]*dp[i][j]);
             }
         }
         return ans;
+        
     }
 };
