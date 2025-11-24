@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1006-vowel-spellchecker](https://github.com/shudhanshu435/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1009-pancake-sorting](https://github.com/shudhanshu435/LeetCode/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/shudhanshu435/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/shudhanshu435/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-squares-of-a-sorted-array](https://github.com/shudhanshu435/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/shudhanshu435/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/shudhanshu435/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -1332,6 +1333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shudhanshu435/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0861-flipping-an-image](https://github.com/shudhanshu435/LeetCode/tree/master/0861-flipping-an-image) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/shudhanshu435/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/shudhanshu435/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1281-can-make-palindrome-from-substring](https://github.com/shudhanshu435/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shudhanshu435/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/shudhanshu435/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
