@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3427-special-array-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/shudhanshu435/LeetCode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/shudhanshu435/LeetCode/tree/master/3430-count-days-without-meetings) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/shudhanshu435/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shudhanshu435/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/shudhanshu435/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/shudhanshu435/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -468,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3034-points-that-intersect-with-cars](https://github.com/shudhanshu435/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shudhanshu435/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3427-special-array-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3427-special-array-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/shudhanshu435/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/shudhanshu435/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/shudhanshu435/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/shudhanshu435/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1312,6 +1314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3321-type-of-triangle](https://github.com/shudhanshu435/LeetCode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3373-maximum-prime-difference](https://github.com/shudhanshu435/LeetCode/tree/master/3373-maximum-prime-difference) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/shudhanshu435/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shudhanshu435/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shudhanshu435/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
