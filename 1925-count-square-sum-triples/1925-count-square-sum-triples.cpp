@@ -4,9 +4,9 @@ public:
         int cnt=0;
         for(int i=1;i<=n;i++){
             for(int j=1;j<=n;j++){
-                for(int k=1;k<=n;k++){
-                    if(i*i+j*j==k*k)cnt++;
-                }
+                long long c=i*1ll*i+j*1ll*j;
+                int sq=sqrt(c);
+                if(sq*1ll*sq==c and sq<=n)cnt++;
             }
         }
         return cnt;
