@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shudhanshu435/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3373-maximum-prime-difference](https://github.com/shudhanshu435/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/shudhanshu435/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3393-count-paths-with-the-given-xor-value](https://github.com/shudhanshu435/LeetCode/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3427-special-array-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/shudhanshu435/LeetCode/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/shudhanshu435/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -929,6 +930,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shudhanshu435/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/shudhanshu435/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/shudhanshu435/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3393-count-paths-with-the-given-xor-value](https://github.com/shudhanshu435/LeetCode/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/shudhanshu435/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/shudhanshu435/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -1250,6 +1252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shudhanshu435/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shudhanshu435/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3393-count-paths-with-the-given-xor-value](https://github.com/shudhanshu435/LeetCode/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/shudhanshu435/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/shudhanshu435/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
@@ -1406,6 +1409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2792-neighboring-bitwise-xor](https://github.com/shudhanshu435/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shudhanshu435/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/shudhanshu435/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3393-count-paths-with-the-given-xor-value](https://github.com/shudhanshu435/LeetCode/tree/master/3393-count-paths-with-the-given-xor-value) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/shudhanshu435/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shudhanshu435/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
