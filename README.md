@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shudhanshu435/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shudhanshu435/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/shudhanshu435/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shudhanshu435/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1396-count-servers-that-communicate](https://github.com/shudhanshu435/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shudhanshu435/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shudhanshu435/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -550,6 +551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1281-can-make-palindrome-from-substring](https://github.com/shudhanshu435/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shudhanshu435/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/shudhanshu435/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shudhanshu435/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shudhanshu435/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shudhanshu435/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -727,6 +729,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1253-sort-the-matrix-diagonally](https://github.com/shudhanshu435/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/shudhanshu435/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shudhanshu435/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shudhanshu435/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shudhanshu435/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shudhanshu435/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1488-sort-integers-by-the-power-value](https://github.com/shudhanshu435/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
@@ -1726,4 +1729,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shudhanshu435/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/shudhanshu435/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shudhanshu435/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
