@@ -8,27 +8,17 @@ public:
         if(seats==0 or seats%2!=0)return 0;
 
         long long ways=1;
-        int seatCount=0;
-        int plants=0;
-        bool started=false;
-
-        for(char c:corridor){
-            if(c=='S'){
-                seatCount++;
-                if(seatCount==2){
-                    if(started){
-                        ways=(ways*1ll*(plants+1))%MOD;
-                    }
-                    started=true;
-                    plants=0;
-                    seatCount=0;
-                }
+        int s=0,p=0;
+        for(char &ch:corridor){
+            if(ch=='S'){
+                s++;
+                if(s-1>0 and (s-1)%2==0)ways=(ways*1ll*(p+1))%MOD;
+                p=0;
             }
-            else if(started and seatCount==0){
-                plants++;
+            else if(s>=2 and s%2==0){
+                p++;
             }
         }
-
         return (int)ways;
     }
 };
