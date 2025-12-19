@@ -1315,6 +1315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/shudhanshu435/LeetCode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/shudhanshu435/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shudhanshu435/LeetCode/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/shudhanshu435/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/shudhanshu435/LeetCode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/shudhanshu435/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/shudhanshu435/LeetCode/tree/master/0231-power-of-two) |
