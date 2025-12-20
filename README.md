@@ -828,6 +828,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0837-most-common-word](https://github.com/shudhanshu435/LeetCode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/shudhanshu435/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
 | [0868-push-dominoes](https://github.com/shudhanshu435/LeetCode/tree/master/0868-push-dominoes) |
+| [0880-decoded-string-at-index](https://github.com/shudhanshu435/LeetCode/tree/master/0880-decoded-string-at-index) |
 | [0886-score-of-parentheses](https://github.com/shudhanshu435/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0926-find-and-replace-pattern](https://github.com/shudhanshu435/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [0944-delete-columns-to-make-sorted](https://github.com/shudhanshu435/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -1143,6 +1144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/shudhanshu435/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/shudhanshu435/LeetCode/tree/master/0394-decode-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shudhanshu435/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0880-decoded-string-at-index](https://github.com/shudhanshu435/LeetCode/tree/master/0880-decoded-string-at-index) |
 | [0886-score-of-parentheses](https://github.com/shudhanshu435/LeetCode/tree/master/0886-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shudhanshu435/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/shudhanshu435/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
