@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0861-flipping-an-image](https://github.com/shudhanshu435/LeetCode/tree/master/0861-flipping-an-image) |
 | [0875-longest-mountain-in-array](https://github.com/shudhanshu435/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/shudhanshu435/LeetCode/tree/master/0877-stone-game) |
+| [0883-projection-area-of-3d-shapes](https://github.com/shudhanshu435/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shudhanshu435/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shudhanshu435/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0917-boats-to-save-people](https://github.com/shudhanshu435/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -946,6 +947,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/shudhanshu435/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/shudhanshu435/LeetCode/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/shudhanshu435/LeetCode/tree/master/0861-flipping-an-image) |
+| [0883-projection-area-of-3d-shapes](https://github.com/shudhanshu435/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0945-snakes-and-ladders](https://github.com/shudhanshu435/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/shudhanshu435/LeetCode/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shudhanshu435/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -1346,6 +1348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-new-21-game](https://github.com/shudhanshu435/LeetCode/tree/master/0867-new-21-game) |
 | [0877-stone-game](https://github.com/shudhanshu435/LeetCode/tree/master/0877-stone-game) |
 | [0878-nth-magical-number](https://github.com/shudhanshu435/LeetCode/tree/master/0878-nth-magical-number) |
+| [0883-projection-area-of-3d-shapes](https://github.com/shudhanshu435/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0900-reordered-power-of-2](https://github.com/shudhanshu435/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/shudhanshu435/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/shudhanshu435/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -1781,6 +1784,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/shudhanshu435/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0883-projection-area-of-3d-shapes](https://github.com/shudhanshu435/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shudhanshu435/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/shudhanshu435/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
