@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/shudhanshu435/LeetCode/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/shudhanshu435/LeetCode/tree/master/0861-flipping-an-image) |
 | [0875-longest-mountain-in-array](https://github.com/shudhanshu435/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [0877-stone-game](https://github.com/shudhanshu435/LeetCode/tree/master/0877-stone-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shudhanshu435/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shudhanshu435/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0917-boats-to-save-people](https://github.com/shudhanshu435/LeetCode/tree/master/0917-boats-to-save-people) |
@@ -1263,6 +1264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-new-21-game](https://github.com/shudhanshu435/LeetCode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/shudhanshu435/LeetCode/tree/master/0868-push-dominoes) |
 | [0875-longest-mountain-in-array](https://github.com/shudhanshu435/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [0877-stone-game](https://github.com/shudhanshu435/LeetCode/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shudhanshu435/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/shudhanshu435/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0972-knight-dialer](https://github.com/shudhanshu435/LeetCode/tree/master/0972-knight-dialer) |
@@ -1339,6 +1341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0826-soup-servings](https://github.com/shudhanshu435/LeetCode/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/shudhanshu435/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/shudhanshu435/LeetCode/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/shudhanshu435/LeetCode/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/shudhanshu435/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/shudhanshu435/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/shudhanshu435/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -1747,6 +1750,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shudhanshu435/LeetCode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/shudhanshu435/LeetCode/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Database
 |  |
