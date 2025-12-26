@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/shudhanshu435/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/shudhanshu435/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/shudhanshu435/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/shudhanshu435/LeetCode/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1813-maximum-erasure-value](https://github.com/shudhanshu435/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/shudhanshu435/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/shudhanshu435/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -709,6 +710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shudhanshu435/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shudhanshu435/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shudhanshu435/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/shudhanshu435/LeetCode/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/shudhanshu435/LeetCode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1972-rotating-the-box](https://github.com/shudhanshu435/LeetCode/tree/master/1972-rotating-the-box) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/shudhanshu435/LeetCode/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
@@ -1059,6 +1061,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1502-construct-k-palindrome-strings](https://github.com/shudhanshu435/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shudhanshu435/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1652-minimum-suffix-flips](https://github.com/shudhanshu435/LeetCode/tree/master/1652-minimum-suffix-flips) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/shudhanshu435/LeetCode/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shudhanshu435/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/shudhanshu435/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/shudhanshu435/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -1255,6 +1258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1524-string-matching-in-an-array](https://github.com/shudhanshu435/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shudhanshu435/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1764-maximum-repeating-substring](https://github.com/shudhanshu435/LeetCode/tree/master/1764-maximum-repeating-substring) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/shudhanshu435/LeetCode/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/shudhanshu435/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/shudhanshu435/LeetCode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
