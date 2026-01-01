@@ -929,6 +929,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/shudhanshu435/LeetCode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/shudhanshu435/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/shudhanshu435/LeetCode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shudhanshu435/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1281,6 +1282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2292-counting-words-with-a-given-prefix](https://github.com/shudhanshu435/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/shudhanshu435/LeetCode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
+| [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/shudhanshu435/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
 |  |
@@ -1739,6 +1741,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1392-longest-happy-prefix](https://github.com/shudhanshu435/LeetCode/tree/master/1392-longest-happy-prefix) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/shudhanshu435/LeetCode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
+| [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/shudhanshu435/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
@@ -1748,6 +1751,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2079-delete-duplicate-folders-in-system](https://github.com/shudhanshu435/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/shudhanshu435/LeetCode/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
+| [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/shudhanshu435/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Brainteaser
 |  |
