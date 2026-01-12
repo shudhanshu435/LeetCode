@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1227-number-of-equivalent-domino-pairs](https://github.com/shudhanshu435/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1253-sort-the-matrix-diagonally](https://github.com/shudhanshu435/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/shudhanshu435/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/shudhanshu435/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-can-make-palindrome-from-substring](https://github.com/shudhanshu435/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1293-three-consecutive-odds](https://github.com/shudhanshu435/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/shudhanshu435/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -1436,6 +1437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1015-smallest-integer-divisible-by-k](https://github.com/shudhanshu435/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/shudhanshu435/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1103-moving-stones-until-consecutive](https://github.com/shudhanshu435/LeetCode/tree/master/1103-moving-stones-until-consecutive) |
+| [1266-minimum-time-visiting-all-points](https://github.com/shudhanshu435/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/shudhanshu435/LeetCode/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shudhanshu435/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shudhanshu435/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -1892,6 +1894,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0830-largest-triangle-area](https://github.com/shudhanshu435/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/shudhanshu435/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
+| [1266-minimum-time-visiting-all-points](https://github.com/shudhanshu435/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shudhanshu435/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/shudhanshu435/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
