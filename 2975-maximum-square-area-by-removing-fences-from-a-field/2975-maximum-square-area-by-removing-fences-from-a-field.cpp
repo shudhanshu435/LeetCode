@@ -5,14 +5,17 @@ public:
         sort(vf.begin(),vf.end());
         int hs=hf.size();
         int vs=vf.size();
-        unordered_map<int,bool>mp;
+        // unordered_map<int,bool>mp;
+        unordered_set<int>s;
 
         int cur=m;
         for(int i=hs;i>=0;i--){
             for(int j=i-1;j>=0;j--){
-                mp[cur-hf[j]]=1;
+                // mp[cur-hf[j]]=1;
+                s.insert(cur-hf[j]);
             }
-            mp[cur-1]=1;
+            // mp[cur-1]=1;
+            s.insert(cur-1);
             if(i!=0)cur=hf[i-1];
         }
         // for(auto i:mp)cout<<i.first<<" "<<i.second<<endl;
@@ -20,9 +23,11 @@ public:
         int ans=-1;
         for(int i=vs;i>=0;i--){
             for(int j=i-1;j>=0;j--){
-                if(mp[cur-vf[j]]==1)ans=max(ans,cur-vf[j]);
+                // if(mp[cur-vf[j]]==1)ans=max(ans,cur-vf[j]);
+                if(s.find(cur-vf[j])!=s.end())ans=max(ans,cur-vf[j]);
             }
-            if(mp[cur-1]==1)ans=max(ans,cur-1);
+            // if(mp[cur-1]==1)ans=max(ans,cur-1);
+            if(s.find(cur-1)!=s.end())ans=max(ans,cur-1);
             if(i!=0)cur=vf[i-1];
         }
         if(ans==-1)return -1;
