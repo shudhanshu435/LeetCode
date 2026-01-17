@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3034-points-that-intersect-with-cars](https://github.com/shudhanshu435/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/shudhanshu435/LeetCode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/shudhanshu435/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/shudhanshu435/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/shudhanshu435/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -1484,6 +1485,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/shudhanshu435/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/shudhanshu435/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/shudhanshu435/LeetCode/tree/master/3046-minimum-operations-to-make-a-special-number) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/shudhanshu435/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shudhanshu435/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shudhanshu435/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3201-distribute-candies-among-children-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -1902,6 +1904,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0830-largest-triangle-area](https://github.com/shudhanshu435/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/shudhanshu435/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1266-minimum-time-visiting-all-points](https://github.com/shudhanshu435/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/shudhanshu435/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shudhanshu435/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/shudhanshu435/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
