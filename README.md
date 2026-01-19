@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1262-greatest-sum-divisible-by-three](https://github.com/shudhanshu435/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/shudhanshu435/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-can-make-palindrome-from-substring](https://github.com/shudhanshu435/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/shudhanshu435/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/shudhanshu435/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/shudhanshu435/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shudhanshu435/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -418,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-friends-of-appropriate-ages](https://github.com/shudhanshu435/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0878-nth-magical-number](https://github.com/shudhanshu435/LeetCode/tree/master/0878-nth-magical-number) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shudhanshu435/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/shudhanshu435/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/shudhanshu435/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shudhanshu435/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shudhanshu435/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -510,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shudhanshu435/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1206-corporate-flight-bookings](https://github.com/shudhanshu435/LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [1281-can-make-palindrome-from-substring](https://github.com/shudhanshu435/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/shudhanshu435/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/shudhanshu435/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
@@ -1009,6 +1012,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/shudhanshu435/LeetCode/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shudhanshu435/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1253-sort-the-matrix-diagonally](https://github.com/shudhanshu435/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/shudhanshu435/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shudhanshu435/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/shudhanshu435/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shudhanshu435/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
