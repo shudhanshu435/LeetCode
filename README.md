@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/shudhanshu435/LeetCode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/shudhanshu435/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shudhanshu435/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/shudhanshu435/LeetCode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/shudhanshu435/LeetCode/tree/master/0221-maximal-square) |
@@ -1225,6 +1226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/shudhanshu435/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/shudhanshu435/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/shudhanshu435/LeetCode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shudhanshu435/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/shudhanshu435/LeetCode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/shudhanshu435/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/shudhanshu435/LeetCode/tree/master/0316-remove-duplicate-letters) |
@@ -1428,6 +1430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/shudhanshu435/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shudhanshu435/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/shudhanshu435/LeetCode/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/shudhanshu435/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/shudhanshu435/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/shudhanshu435/LeetCode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/shudhanshu435/LeetCode/tree/master/0224-basic-calculator) |
