@@ -948,6 +948,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/shudhanshu435/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/shudhanshu435/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/shudhanshu435/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2315-count-asterisks](https://github.com/shudhanshu435/LeetCode/tree/master/2315-count-asterisks) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/shudhanshu435/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/shudhanshu435/LeetCode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/shudhanshu435/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
