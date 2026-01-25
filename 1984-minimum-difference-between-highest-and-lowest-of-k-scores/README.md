@@ -1,22 +1,24 @@
-<h2><a href="https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/">1984. Minimum Difference Between Highest and Lowest of K Scores</a></h2><h3>Easy</h3><hr><div><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code>, where <code>nums[i]</code> represents the score of the <code>i<sup>th</sup></code> student. You are also given an integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores">2112. Minimum Difference Between Highest and Lowest of K Scores</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code>, where <code>nums[i]</code> represents the score of the <code>i<sup>th</sup></code> student. You are also given an integer <code>k</code>.</p>
 
 <p>Pick the scores of any <code>k</code> students from the array so that the <strong>difference</strong> between the <strong>highest</strong> and the <strong>lowest</strong> of the <code>k</code> scores is <strong>minimized</strong>.</p>
 
 <p>Return <em>the <strong>minimum</strong> possible difference</em>.</p>
 
 <p>&nbsp;</p>
-<p><strong>Example 1:</strong></p>
+<p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> nums = [90], k = 1
+<pre>
+<strong>Input:</strong> nums = [90], k = 1
 <strong>Output:</strong> 0
 <strong>Explanation:</strong> There is one way to pick score(s) of one student:
 - [<strong><u>90</u></strong>]. The difference between the highest and lowest score is 90 - 90 = 0.
 The minimum possible difference is 0.
 </pre>
 
-<p><strong>Example 2:</strong></p>
+<p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> nums = [9,4,1,7], k = 2
+<pre>
+<strong>Input:</strong> nums = [9,4,1,7], k = 2
 <strong>Output:</strong> 2
 <strong>Explanation:</strong> There are six ways to pick score(s) of two students:
 - [<strong><u>9</u></strong>,<strong><u>4</u></strong>,1,7]. The difference between the highest and lowest score is 9 - 4 = 5.
@@ -34,4 +36,3 @@ The minimum possible difference is 2.</pre>
 	<li><code>1 &lt;= k &lt;= nums.length &lt;= 1000</code></li>
 	<li><code>0 &lt;= nums[i] &lt;= 10<sup>5</sup></code></li>
 </ul>
-</div>
