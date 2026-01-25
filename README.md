@@ -188,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-maximum-matrix-sum](https://github.com/shudhanshu435/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/shudhanshu435/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/shudhanshu435/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2126-destroying-asteroids](https://github.com/shudhanshu435/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/shudhanshu435/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/shudhanshu435/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/shudhanshu435/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -814,6 +815,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shudhanshu435/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shudhanshu435/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/shudhanshu435/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
+| [2126-destroying-asteroids](https://github.com/shudhanshu435/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/shudhanshu435/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/shudhanshu435/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shudhanshu435/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -1133,6 +1135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shudhanshu435/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/shudhanshu435/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/shudhanshu435/LeetCode/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
+| [2126-destroying-asteroids](https://github.com/shudhanshu435/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/shudhanshu435/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shudhanshu435/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/shudhanshu435/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
