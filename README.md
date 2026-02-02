@@ -279,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shudhanshu435/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shudhanshu435/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shudhanshu435/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3034-points-that-intersect-with-cars](https://github.com/shudhanshu435/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/shudhanshu435/LeetCode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
@@ -401,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2856-count-complete-subarrays-in-an-array](https://github.com/shudhanshu435/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/shudhanshu435/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shudhanshu435/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/shudhanshu435/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shudhanshu435/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -513,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/shudhanshu435/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shudhanshu435/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/shudhanshu435/LeetCode/tree/master/2868-continuous-subarrays) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/shudhanshu435/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/shudhanshu435/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -675,6 +678,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2888-minimum-index-of-a-valid-split](https://github.com/shudhanshu435/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/shudhanshu435/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shudhanshu435/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3034-points-that-intersect-with-cars](https://github.com/shudhanshu435/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3227-find-missing-and-repeated-values](https://github.com/shudhanshu435/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/shudhanshu435/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
