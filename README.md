@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1917-maximum-average-pass-ratio](https://github.com/shudhanshu435/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/shudhanshu435/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/shudhanshu435/LeetCode/tree/master/1929-concatenation-of-array) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/shudhanshu435/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/shudhanshu435/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shudhanshu435/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/shudhanshu435/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -1284,6 +1285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/shudhanshu435/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shudhanshu435/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shudhanshu435/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/shudhanshu435/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shudhanshu435/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2211-count-collisions-on-a-road](https://github.com/shudhanshu435/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/shudhanshu435/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -1779,6 +1781,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1628-count-submatrices-with-all-ones](https://github.com/shudhanshu435/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shudhanshu435/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shudhanshu435/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/shudhanshu435/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2573-remove-nodes-from-linked-list](https://github.com/shudhanshu435/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/shudhanshu435/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/shudhanshu435/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
