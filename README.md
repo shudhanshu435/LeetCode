@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shudhanshu435/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shudhanshu435/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shudhanshu435/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shudhanshu435/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/shudhanshu435/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shudhanshu435/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/shudhanshu435/LeetCode/tree/master/1390-four-divisors) |
@@ -828,6 +829,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1253-sort-the-matrix-diagonally](https://github.com/shudhanshu435/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/shudhanshu435/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shudhanshu435/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shudhanshu435/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shudhanshu435/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shudhanshu435/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shudhanshu435/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -1626,6 +1628,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0934-bitwise-ors-of-subarrays](https://github.com/shudhanshu435/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/shudhanshu435/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1281-can-make-palindrome-from-substring](https://github.com/shudhanshu435/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shudhanshu435/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shudhanshu435/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/shudhanshu435/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/shudhanshu435/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
@@ -1720,6 +1723,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1034-subarrays-with-k-different-integers](https://github.com/shudhanshu435/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/shudhanshu435/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/shudhanshu435/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shudhanshu435/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/shudhanshu435/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/shudhanshu435/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/shudhanshu435/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
