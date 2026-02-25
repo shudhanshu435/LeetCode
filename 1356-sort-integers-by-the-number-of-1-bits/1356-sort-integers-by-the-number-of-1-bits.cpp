@@ -1,15 +1,13 @@
 class Solution {
 public:
     vector<int> sortByBits(vector<int>& arr) {
-        vector<pair<int,int>> vec;
-        for(int i=0;i<arr.size();i++){
-            vec.push_back(make_pair(__builtin_popcount(arr[i]),arr[i]) );
+        vector<pair<int,int>>vp;
+        for(auto i:arr){
+            vp.push_back({__builtin_popcount(i),i});
         }
-        sort(vec.begin(),vec.end());
-        vector<int>ans;
-        for(int i=0;i<vec.size();i++){
-            ans.push_back(vec[i].second);
-        }
-        return ans;
+        sort(vp.begin(),vp.end());
+        vector<int>v;
+        for(auto i:vp)v.push_back(i.second);
+        return v;
     }
 };
