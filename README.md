@@ -375,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/shudhanshu435/LeetCode/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3827-implement-router](https://github.com/shudhanshu435/LeetCode/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/shudhanshu435/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3850-count-sequences-to-k](https://github.com/shudhanshu435/LeetCode/tree/master/3850-count-sequences-to-k) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/shudhanshu435/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Sliding Window
 |  |
@@ -1482,6 +1483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/shudhanshu435/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/shudhanshu435/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3850-count-sequences-to-k](https://github.com/shudhanshu435/LeetCode/tree/master/3850-count-sequences-to-k) |
 ## Math
 |  |
 | ------- |
@@ -1594,6 +1596,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/shudhanshu435/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shudhanshu435/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/shudhanshu435/LeetCode/tree/master/3830-find-closest-person) |
+| [3850-count-sequences-to-k](https://github.com/shudhanshu435/LeetCode/tree/master/3850-count-sequences-to-k) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/shudhanshu435/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Backtracking
 |  |
@@ -1768,6 +1771,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/shudhanshu435/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/shudhanshu435/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/shudhanshu435/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3850-count-sequences-to-k](https://github.com/shudhanshu435/LeetCode/tree/master/3850-count-sequences-to-k) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1975,6 +1979,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/shudhanshu435/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3373-maximum-prime-difference](https://github.com/shudhanshu435/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shudhanshu435/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3850-count-sequences-to-k](https://github.com/shudhanshu435/LeetCode/tree/master/3850-count-sequences-to-k) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/shudhanshu435/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Game Theory
 |  |
