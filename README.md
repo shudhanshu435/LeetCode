@@ -1106,6 +1106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shudhanshu435/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shudhanshu435/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/shudhanshu435/LeetCode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1708-design-parking-system](https://github.com/shudhanshu435/LeetCode/tree/master/1708-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/shudhanshu435/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shudhanshu435/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -1537,6 +1538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shudhanshu435/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shudhanshu435/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/shudhanshu435/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/shudhanshu435/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shudhanshu435/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/shudhanshu435/LeetCode/tree/master/1925-count-square-sum-triples) |
@@ -1642,6 +1644,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1281-can-make-palindrome-from-substring](https://github.com/shudhanshu435/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shudhanshu435/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/shudhanshu435/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/shudhanshu435/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/shudhanshu435/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/shudhanshu435/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
