@@ -306,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/shudhanshu435/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shudhanshu435/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shudhanshu435/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shudhanshu435/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/shudhanshu435/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -479,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/shudhanshu435/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/shudhanshu435/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shudhanshu435/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3427-special-array-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3427-special-array-ii) |
 | [3453-separate-squares-i](https://github.com/shudhanshu435/LeetCode/tree/master/3453-separate-squares-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -526,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2868-continuous-subarrays](https://github.com/shudhanshu435/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/shudhanshu435/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shudhanshu435/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/shudhanshu435/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -1203,6 +1206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3075-maximize-happiness-of-selected-children](https://github.com/shudhanshu435/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shudhanshu435/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/shudhanshu435/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shudhanshu435/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shudhanshu435/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/shudhanshu435/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/shudhanshu435/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -1579,6 +1583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shudhanshu435/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/shudhanshu435/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/shudhanshu435/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3321-type-of-triangle](https://github.com/shudhanshu435/LeetCode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3373-maximum-prime-difference](https://github.com/shudhanshu435/LeetCode/tree/master/3373-maximum-prime-difference) |
