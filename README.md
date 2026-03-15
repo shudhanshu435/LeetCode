@@ -632,6 +632,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/shudhanshu435/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-word-subsets](https://github.com/shudhanshu435/LeetCode/tree/master/0952-word-subsets) |
 | [0959-3sum-with-multiplicity](https://github.com/shudhanshu435/LeetCode/tree/master/0959-3sum-with-multiplicity) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1006-vowel-spellchecker](https://github.com/shudhanshu435/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/shudhanshu435/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/shudhanshu435/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -831,6 +832,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0917-boats-to-save-people](https://github.com/shudhanshu435/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0958-sort-array-by-parity-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/shudhanshu435/LeetCode/tree/master/0959-3sum-with-multiplicity) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1009-pancake-sorting](https://github.com/shudhanshu435/LeetCode/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/shudhanshu435/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/shudhanshu435/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -1239,6 +1241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/shudhanshu435/LeetCode/tree/master/0854-making-a-large-island) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shudhanshu435/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/shudhanshu435/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/shudhanshu435/LeetCode/tree/master/1036-rotting-oranges) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shudhanshu435/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1345,6 +1348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/shudhanshu435/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/shudhanshu435/LeetCode/tree/master/0854-making-a-large-island) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shudhanshu435/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shudhanshu435/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -1834,6 +1838,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shudhanshu435/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shudhanshu435/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shudhanshu435/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -1862,6 +1867,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shudhanshu435/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shudhanshu435/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shudhanshu435/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
