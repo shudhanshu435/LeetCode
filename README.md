@@ -655,6 +655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1510-find-lucky-integer-in-an-array](https://github.com/shudhanshu435/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/shudhanshu435/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1813-maximum-erasure-value](https://github.com/shudhanshu435/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/shudhanshu435/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/shudhanshu435/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shudhanshu435/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/shudhanshu435/LeetCode/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -969,6 +970,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shudhanshu435/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1764-maximum-repeating-substring](https://github.com/shudhanshu435/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shudhanshu435/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/shudhanshu435/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/shudhanshu435/LeetCode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/shudhanshu435/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/shudhanshu435/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
