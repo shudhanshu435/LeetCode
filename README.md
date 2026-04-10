@@ -2078,6 +2078,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/shudhanshu435/LeetCode/tree/master/0182-duplicate-emails) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/shudhanshu435/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 ## Merge Sort
 |  |
