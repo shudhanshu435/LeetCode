@@ -982,6 +982,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1264-maximum-number-of-words-you-can-type](https://github.com/shudhanshu435/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1281-can-make-palindrome-from-substring](https://github.com/shudhanshu435/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shudhanshu435/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shudhanshu435/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/shudhanshu435/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shudhanshu435/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1392-longest-happy-prefix](https://github.com/shudhanshu435/LeetCode/tree/master/1392-longest-happy-prefix) |
@@ -1507,6 +1508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/shudhanshu435/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/shudhanshu435/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/shudhanshu435/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/shudhanshu435/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shudhanshu435/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/shudhanshu435/LeetCode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/shudhanshu435/LeetCode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
