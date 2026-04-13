@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1813-maximum-erasure-value](https://github.com/shudhanshu435/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/shudhanshu435/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/shudhanshu435/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/shudhanshu435/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/shudhanshu435/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/shudhanshu435/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shudhanshu435/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
