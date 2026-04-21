@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1656-count-good-triplets](https://github.com/shudhanshu435/LeetCode/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shudhanshu435/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/shudhanshu435/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/shudhanshu435/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shudhanshu435/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/shudhanshu435/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/shudhanshu435/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -1419,6 +1420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1382-balance-a-binary-search-tree](https://github.com/shudhanshu435/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/shudhanshu435/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/shudhanshu435/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/shudhanshu435/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/shudhanshu435/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2201-valid-arrangement-of-pairs](https://github.com/shudhanshu435/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
@@ -2135,5 +2137,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 |  |
 | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/shudhanshu435/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/shudhanshu435/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
