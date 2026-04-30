@@ -390,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shudhanshu435/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/shudhanshu435/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/shudhanshu435/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/shudhanshu435/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/shudhanshu435/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -1168,6 +1169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shudhanshu435/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/shudhanshu435/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/shudhanshu435/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/shudhanshu435/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/shudhanshu435/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Simulation
@@ -1583,6 +1585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/shudhanshu435/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/shudhanshu435/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/shudhanshu435/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3850-count-sequences-to-k](https://github.com/shudhanshu435/LeetCode/tree/master/3850-count-sequences-to-k) |
 ## Math
 |  |
