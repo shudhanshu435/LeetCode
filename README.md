@@ -1523,6 +1523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/shudhanshu435/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shudhanshu435/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/shudhanshu435/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/shudhanshu435/LeetCode/tree/master/0788-rotated-digits) |
 | [0806-domino-and-tromino-tiling](https://github.com/shudhanshu435/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0808-number-of-matching-subsequences](https://github.com/shudhanshu435/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0826-soup-servings](https://github.com/shudhanshu435/LeetCode/tree/master/0826-soup-servings) |
@@ -1617,6 +1618,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/shudhanshu435/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0679-24-game](https://github.com/shudhanshu435/LeetCode/tree/master/0679-24-game) |
+| [0788-rotated-digits](https://github.com/shudhanshu435/LeetCode/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/shudhanshu435/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/shudhanshu435/LeetCode/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/shudhanshu435/LeetCode/tree/master/0830-largest-triangle-area) |
