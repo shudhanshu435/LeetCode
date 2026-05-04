@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/shudhanshu435/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/shudhanshu435/LeetCode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shudhanshu435/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -1105,6 +1106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/shudhanshu435/LeetCode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/shudhanshu435/LeetCode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shudhanshu435/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -1595,6 +1597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shudhanshu435/LeetCode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/shudhanshu435/LeetCode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/shudhanshu435/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/shudhanshu435/LeetCode/tree/master/0066-plus-one) |
