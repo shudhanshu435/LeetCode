@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shudhanshu435/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1646-kth-missing-positive-number](https://github.com/shudhanshu435/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/shudhanshu435/LeetCode/tree/master/1656-count-good-triplets) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shudhanshu435/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shudhanshu435/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/shudhanshu435/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/shudhanshu435/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -895,6 +896,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1488-sort-integers-by-the-power-value](https://github.com/shudhanshu435/LeetCode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/shudhanshu435/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shudhanshu435/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shudhanshu435/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shudhanshu435/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/shudhanshu435/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/shudhanshu435/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -1264,6 +1266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1502-construct-k-palindrome-strings](https://github.com/shudhanshu435/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shudhanshu435/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1652-minimum-suffix-flips](https://github.com/shudhanshu435/LeetCode/tree/master/1652-minimum-suffix-flips) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shudhanshu435/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shudhanshu435/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/shudhanshu435/LeetCode/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shudhanshu435/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
