@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/shudhanshu435/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/shudhanshu435/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1063-best-sightseeing-pair](https://github.com/shudhanshu435/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/shudhanshu435/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/shudhanshu435/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1124-longest-well-performing-interval](https://github.com/shudhanshu435/LeetCode/tree/master/1124-longest-well-performing-interval) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shudhanshu435/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -1154,6 +1155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0883-projection-area-of-3d-shapes](https://github.com/shudhanshu435/LeetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0945-snakes-and-ladders](https://github.com/shudhanshu435/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/shudhanshu435/LeetCode/tree/master/1036-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/shudhanshu435/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shudhanshu435/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1253-sort-the-matrix-diagonally](https://github.com/shudhanshu435/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/shudhanshu435/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -1355,6 +1357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0945-snakes-and-ladders](https://github.com/shudhanshu435/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/shudhanshu435/LeetCode/tree/master/1036-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/shudhanshu435/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shudhanshu435/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shudhanshu435/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
