@@ -316,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3034-points-that-intersect-with-cars](https://github.com/shudhanshu435/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/shudhanshu435/LeetCode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shudhanshu435/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/shudhanshu435/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shudhanshu435/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/shudhanshu435/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -759,6 +760,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shudhanshu435/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3034-points-that-intersect-with-cars](https://github.com/shudhanshu435/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shudhanshu435/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3227-find-missing-and-repeated-values](https://github.com/shudhanshu435/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/shudhanshu435/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
@@ -1097,6 +1099,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3008-find-beautiful-indices-in-the-given-array-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3008-find-beautiful-indices-in-the-given-array-ii) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/shudhanshu435/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3031-minimum-time-to-revert-word-to-initial-state-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shudhanshu435/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/shudhanshu435/LeetCode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shudhanshu435/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -2078,6 +2081,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2079-delete-duplicate-folders-in-system](https://github.com/shudhanshu435/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shudhanshu435/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/shudhanshu435/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shudhanshu435/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/shudhanshu435/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3905-partition-string](https://github.com/shudhanshu435/LeetCode/tree/master/3905-partition-string) |
 ## Rolling Hash
