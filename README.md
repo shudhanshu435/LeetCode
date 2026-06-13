@@ -430,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/shudhanshu435/LeetCode/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 | [3827-implement-router](https://github.com/shudhanshu435/LeetCode/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/shudhanshu435/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3838-weighted-word-mapping](https://github.com/shudhanshu435/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3850-count-sequences-to-k](https://github.com/shudhanshu435/LeetCode/tree/master/3850-count-sequences-to-k) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/shudhanshu435/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Sliding Window
@@ -1161,6 +1162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shudhanshu435/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/shudhanshu435/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/shudhanshu435/LeetCode/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
+| [3838-weighted-word-mapping](https://github.com/shudhanshu435/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shudhanshu435/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3905-partition-string](https://github.com/shudhanshu435/LeetCode/tree/master/3905-partition-string) |
 ## Matrix
@@ -1289,6 +1291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/shudhanshu435/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/shudhanshu435/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3838-weighted-word-mapping](https://github.com/shudhanshu435/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3905-partition-string](https://github.com/shudhanshu435/LeetCode/tree/master/3905-partition-string) |
 ## Greedy
 |  |
