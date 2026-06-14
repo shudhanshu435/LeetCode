@@ -882,6 +882,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1972-rotating-the-box](https://github.com/shudhanshu435/LeetCode/tree/master/1972-rotating-the-box) |
 | [1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/shudhanshu435/LeetCode/tree/master/1978-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shudhanshu435/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shudhanshu435/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shudhanshu435/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2232-adding-spaces-to-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/shudhanshu435/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -1472,6 +1473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/shudhanshu435/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shudhanshu435/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shudhanshu435/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shudhanshu435/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/shudhanshu435/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/shudhanshu435/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shudhanshu435/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -1943,6 +1945,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/shudhanshu435/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shudhanshu435/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shudhanshu435/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shudhanshu435/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/shudhanshu435/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/shudhanshu435/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/shudhanshu435/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
