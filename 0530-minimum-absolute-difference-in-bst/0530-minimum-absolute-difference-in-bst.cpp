@@ -11,30 +11,25 @@
  */
 class Solution {
 public:
-    int getMinimumDifference(TreeNode* root) {
-        queue<TreeNode*>q;
-        q.push(root);
-        int ans=INT_MAX;
-        vector<int>v;
-        while(!q.empty()){
-            int k=q.size();
-            while(k--){
-                TreeNode* curr=q.front();
-                v.push_back(curr->val);
-                q.pop();
-                if(curr->left){
-                    q.push(curr->left);
-                }
-                if(curr->right){
-                    q.push(curr->right);
-                }
-            }
+    int v=0,k=0;
+    int ans=INT_MAX;
+    int prev;
+    void inorder(TreeNode* root){
+        if(!root)return;
+        inorder(root->left);
+        if(k==0){
+            v=root->val;
+            k=1;
+        }
+        else {
+            ans=min(ans,root->val-v);
+            v=root->val;
+        }
 
-        }
-        sort(v.begin(),v.end());
-        for(int i=1;i<v.size();i++){
-            ans=min(ans,v[i]-v[i-1]);
-        }
+        inorder(root->right);
+    }
+    int getMinimumDifference(TreeNode* root) {
+        inorder(root);
         return ans;
     }
 };
