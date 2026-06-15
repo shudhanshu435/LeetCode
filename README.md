@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2429-design-a-food-rating-system](https://github.com/shudhanshu435/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/shudhanshu435/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/shudhanshu435/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2439-minimize-maximum-of-array](https://github.com/shudhanshu435/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/shudhanshu435/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/shudhanshu435/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/shudhanshu435/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
@@ -525,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2333-count-number-of-rectangles-containing-each-point](https://github.com/shudhanshu435/LeetCode/tree/master/2333-count-number-of-rectangles-containing-each-point) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shudhanshu435/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/shudhanshu435/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2439-minimize-maximum-of-array](https://github.com/shudhanshu435/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2540-minimum-common-value](https://github.com/shudhanshu435/LeetCode/tree/master/2540-minimum-common-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/shudhanshu435/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/shudhanshu435/LeetCode/tree/master/2628-minimize-the-maximum-of-two-arrays) |
@@ -627,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2249-count-the-hidden-sequences](https://github.com/shudhanshu435/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/shudhanshu435/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/shudhanshu435/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2439-minimize-maximum-of-array](https://github.com/shudhanshu435/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2465-shifting-letters-ii](https://github.com/shudhanshu435/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/shudhanshu435/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/shudhanshu435/LeetCode/tree/master/2529-range-product-queries-of-powers) |
@@ -1346,6 +1349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2300-construct-string-with-repeat-limit](https://github.com/shudhanshu435/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/shudhanshu435/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/shudhanshu435/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2439-minimize-maximum-of-array](https://github.com/shudhanshu435/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shudhanshu435/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/shudhanshu435/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/shudhanshu435/LeetCode/tree/master/2509-minimize-xor) |
@@ -1671,6 +1675,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2408-number-of-people-aware-of-a-secret](https://github.com/shudhanshu435/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/shudhanshu435/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/shudhanshu435/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2439-minimize-maximum-of-array](https://github.com/shudhanshu435/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/shudhanshu435/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/shudhanshu435/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/shudhanshu435/LeetCode/tree/master/2669-find-the-substring-with-maximum-cost) |
