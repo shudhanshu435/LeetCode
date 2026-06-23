@@ -1524,6 +1524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0113-path-sum-ii) |
@@ -2079,6 +2080,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -2129,6 +2131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -2330,6 +2333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shudhanshu435/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shudhanshu435/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
