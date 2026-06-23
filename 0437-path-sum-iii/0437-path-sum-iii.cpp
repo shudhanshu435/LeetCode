@@ -11,23 +11,25 @@
  */
 class Solution {
 public:
-    int dfs(TreeNode* root, long long curr, int k, unordered_map<long long,int>&mp){
-        if(!root)return 0;
-        curr+=root->val;
-        int ans=0;
-        if(mp.count(curr-k)){
-            ans+=mp[curr-k];
-        }
-        mp[curr]++;
-        ans+=dfs(root->left,curr,k,mp);
-        ans+=dfs(root->right,curr,k,mp);
-        mp[curr]--;
-
-        return ans;
+    int ans=0;
+    long long sum=0;
+    unordered_map<long long, int >mp;
+    void dfs(TreeNode* root, int targetSum){
+        if(!root)return;
+        sum+=root->val;
+        // cout<<sum<<endl;
+        ans+=mp[sum-targetSum];
+        mp[sum]++;
+        dfs(root->left,targetSum);
+        dfs(root->right,targetSum);
+        mp[sum]--;
+        if(mp[sum]==0)mp.erase(sum);
+        sum-=root->val;
+        // cout<<sum<<endl;
     }
     int pathSum(TreeNode* root, int targetSum) {
-        unordered_map<long long,int>mp;
         mp[0]=1;
-        return dfs(root,0,targetSum,mp);
+        dfs(root,targetSum);
+        return ans;
     }
 };
