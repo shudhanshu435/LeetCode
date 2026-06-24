@@ -11,20 +11,41 @@
  */
 class Solution {
 public:
-    int solve(TreeNode* root, int &moves){
-        if(!root)return 0;
+    int ans=0;
+    void dfs(TreeNode* root){
+        if(!root)return;
+        dfs(root->left);
+        //for ledt child
+        if(root->left){
+            int l=root->left->val;
+            if(l<=0){
+                ans+=abs(l)+1;
+                root->val-=(abs(l)+1);
+            }
+            else if(l>1){
+                root->val+=l-1;
+                ans+=l-1;
+            }
 
-        int l=solve(root->left,moves);
-        int r=solve(root->right,moves);
-        moves+=abs(l)+abs(r);
+        }
+        dfs(root->right);
+        //for right child
+        if(root->right){
+            int r=root->right->val;
+            if(r<=0){
+                ans+=abs(r)+1;
+                root->val-=(abs(r)+1);
+            }
+            else if(r>1){
+                root->val+=r-1;
+                ans+=r-1;
+            }
 
-        return l+r+root->val-1;
+        }
+
     }
     int distributeCoins(TreeNode* root) {
-        int moves=0;
-
-        solve(root,moves);
-
-        return moves;
+        dfs(root);
+        return ans;
     }
 };
