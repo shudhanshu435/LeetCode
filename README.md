@@ -423,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/shudhanshu435/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/shudhanshu435/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/shudhanshu435/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/shudhanshu435/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shudhanshu435/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -667,6 +668,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3699-number-of-zigzag-arrays-i](https://github.com/shudhanshu435/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/shudhanshu435/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/shudhanshu435/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/shudhanshu435/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Monotonic Queue
@@ -826,6 +828,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3713-longest-balanced-substring-i](https://github.com/shudhanshu435/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/shudhanshu435/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/shudhanshu435/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shudhanshu435/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/shudhanshu435/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -2038,6 +2041,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/shudhanshu435/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/shudhanshu435/LeetCode/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/shudhanshu435/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/shudhanshu435/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shudhanshu435/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/shudhanshu435/LeetCode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -2193,6 +2197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2280-count-good-triplets-in-an-array](https://github.com/shudhanshu435/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/shudhanshu435/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3719-longest-balanced-subarray-i](https://github.com/shudhanshu435/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/shudhanshu435/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/shudhanshu435/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/shudhanshu435/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
@@ -2298,6 +2303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2280-count-good-triplets-in-an-array](https://github.com/shudhanshu435/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/shudhanshu435/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/shudhanshu435/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/shudhanshu435/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Interactive
 |  |
 | ------- |
@@ -2333,6 +2339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/shudhanshu435/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/shudhanshu435/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Quickselect
 |  |
 | ------- |
