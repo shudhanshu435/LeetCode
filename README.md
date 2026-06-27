@@ -1588,6 +1588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0979-distribute-coins-in-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/shudhanshu435/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/shudhanshu435/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shudhanshu435/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -2168,6 +2169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/shudhanshu435/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/shudhanshu435/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shudhanshu435/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -2234,6 +2236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/shudhanshu435/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/shudhanshu435/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shudhanshu435/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
