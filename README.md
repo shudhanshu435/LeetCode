@@ -1510,6 +1510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/shudhanshu435/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0880-decoded-string-at-index](https://github.com/shudhanshu435/LeetCode/tree/master/0880-decoded-string-at-index) |
 | [0886-score-of-parentheses](https://github.com/shudhanshu435/LeetCode/tree/master/0886-score-of-parentheses) |
+| [0897-increasing-order-search-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0962-maximum-width-ramp](https://github.com/shudhanshu435/LeetCode/tree/master/0962-maximum-width-ramp) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shudhanshu435/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1582,6 +1583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/shudhanshu435/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/shudhanshu435/LeetCode/tree/master/0854-making-a-large-island) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shudhanshu435/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0968-binary-tree-cameras](https://github.com/shudhanshu435/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -2159,6 +2161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0654-maximum-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/shudhanshu435/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shudhanshu435/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0968-binary-tree-cameras](https://github.com/shudhanshu435/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -2224,6 +2227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0654-maximum-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/shudhanshu435/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shudhanshu435/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0968-binary-tree-cameras](https://github.com/shudhanshu435/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -2424,6 +2428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shudhanshu435/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shudhanshu435/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0897-increasing-order-search-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/shudhanshu435/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shudhanshu435/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
