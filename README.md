@@ -1432,6 +1432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shudhanshu435/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shudhanshu435/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/shudhanshu435/LeetCode/tree/master/0542-01-matrix) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/shudhanshu435/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shudhanshu435/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -1574,6 +1575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shudhanshu435/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shudhanshu435/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -2159,6 +2161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0515-find-largest-value-in-each-tree-row](https://github.com/shudhanshu435/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/shudhanshu435/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
