@@ -1818,6 +1818,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1015-smallest-integer-divisible-by-k](https://github.com/shudhanshu435/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/shudhanshu435/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1103-moving-stones-until-consecutive](https://github.com/shudhanshu435/LeetCode/tree/master/1103-moving-stones-until-consecutive) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1266-minimum-time-visiting-all-points](https://github.com/shudhanshu435/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shudhanshu435/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/shudhanshu435/LeetCode/tree/master/1390-four-divisors) |
@@ -2176,6 +2177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/shudhanshu435/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/shudhanshu435/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shudhanshu435/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shudhanshu435/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -2244,6 +2246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/shudhanshu435/LeetCode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/shudhanshu435/LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/shudhanshu435/LeetCode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/shudhanshu435/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
