@@ -720,6 +720,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0808-number-of-matching-subsequences](https://github.com/shudhanshu435/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0837-most-common-word](https://github.com/shudhanshu435/LeetCode/tree/master/0837-most-common-word) |
 | [0840-magic-squares-in-grid](https://github.com/shudhanshu435/LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shudhanshu435/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/shudhanshu435/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0900-reordered-power-of-2](https://github.com/shudhanshu435/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -1443,6 +1444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/shudhanshu435/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/shudhanshu435/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/shudhanshu435/LeetCode/tree/master/0854-making-a-large-island) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shudhanshu435/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/shudhanshu435/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0965-univalued-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0965-univalued-binary-tree) |
@@ -1593,6 +1595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0814-binary-tree-pruning](https://github.com/shudhanshu435/LeetCode/tree/master/0814-binary-tree-pruning) |
 | [0820-find-eventual-safe-states](https://github.com/shudhanshu435/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/shudhanshu435/LeetCode/tree/master/0854-making-a-large-island) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shudhanshu435/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0965-univalued-binary-tree) |
@@ -2178,6 +2181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0654-maximum-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/shudhanshu435/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0814-binary-tree-pruning](https://github.com/shudhanshu435/LeetCode/tree/master/0814-binary-tree-pruning) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shudhanshu435/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -2250,6 +2254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0654-maximum-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/shudhanshu435/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0814-binary-tree-pruning](https://github.com/shudhanshu435/LeetCode/tree/master/0814-binary-tree-pruning) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shudhanshu435/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
