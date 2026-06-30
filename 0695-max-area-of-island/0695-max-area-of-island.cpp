@@ -1,36 +1,47 @@
 class Solution {
 public:
     int maxAreaOfIsland(vector<vector<int>>& grid) {
+        queue<pair<int,int>>q;
+        int n=grid.size();
+        int m=grid[0].size();
         int ans=0;
-        int m=grid.size();
-        int n=grid[0].size();
-        int sum=0;
-        for(auto v:grid){
-            sum+=accumulate(v.begin(),v.end(),0);
-        }
-        if(sum==m*n)return sum;
-         for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(grid[i][j]!=0){
-                    queue<pair<int,int>>q;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                int cnt=0;
+                if(grid[i][j]==1){
                     q.push({i,j});
-                    int sum=0;
-                    while(!q.empty()){
-                        int r=q.front().first;
-                        int c=q.front().second;
-                        sum+=grid[r][c];
-                        grid[r][c]=0;
-                        q.pop();
-
-                        if(r-1>=0 and grid[r-1][c]!=0)q.push({r-1,c});
-                        if(r+1<m and grid[r+1][c]!=0)q.push({r+1,c});
-                        if(c-1>=0 and grid[r][c-1]!=0)q.push({r,c-1});
-                        if(c+1<n and grid[r][c+1]!=0)q.push({r,c+1});
-                    }
-                    ans=max(ans,sum);
+                    grid[i][j]=0;
+                    cnt++;
                 }
+                while(!q.empty()){
+                    int i=q.front().first;
+                    int j=q.front().second;
+                    q.pop();
+                    if(i-1>=0 and grid[i-1][j]==1){
+                        q.push({i-1,j});
+                        grid[i-1][j]=0;
+                        cnt++;
+                    }
+                    if(i+1<n and grid[i+1][j]==1){
+                        q.push({i+1,j});
+                        grid[i+1][j]=0;
+                        cnt++;
+                    }
+                    if(j-1>=0 and grid[i][j-1]==1){
+                        q.push({i,j-1});
+                        grid[i][j-1]=0;
+                        cnt++;
+                    }
+                    if(j+1<m and grid[i][j+1]==1){
+                        q.push({i,j+1});
+                        grid[i][j+1]=0;
+                        cnt++;
+                    }
+                }
+                ans=max(ans,cnt);
+                
             }
-         }
-         return ans;
+        }
+        return ans;
     }
 };
