@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/shudhanshu435/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shudhanshu435/LeetCode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/shudhanshu435/LeetCode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/shudhanshu435/LeetCode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/shudhanshu435/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -1221,6 +1222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/shudhanshu435/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shudhanshu435/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/shudhanshu435/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/shudhanshu435/LeetCode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/shudhanshu435/LeetCode/tree/master/0221-maximal-square) |
 | [0407-trapping-rain-water-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shudhanshu435/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1431,6 +1433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/shudhanshu435/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/shudhanshu435/LeetCode/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shudhanshu435/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1575,6 +1578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/shudhanshu435/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/shudhanshu435/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/shudhanshu435/LeetCode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shudhanshu435/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shudhanshu435/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -2515,6 +2519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shudhanshu435/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shudhanshu435/LeetCode/tree/master/0547-number-of-provinces) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shudhanshu435/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shudhanshu435/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
