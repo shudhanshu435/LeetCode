@@ -1446,6 +1446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/shudhanshu435/LeetCode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/shudhanshu435/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/shudhanshu435/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/shudhanshu435/LeetCode/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shudhanshu435/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1596,6 +1597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/shudhanshu435/LeetCode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/shudhanshu435/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/shudhanshu435/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/shudhanshu435/LeetCode/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shudhanshu435/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/shudhanshu435/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -2417,6 +2419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/shudhanshu435/LeetCode/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/shudhanshu435/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/shudhanshu435/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Data Stream
@@ -2528,6 +2531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/shudhanshu435/LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/shudhanshu435/LeetCode/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shudhanshu435/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/shudhanshu435/LeetCode/tree/master/0841-keys-and-rooms) |
