@@ -1497,6 +1497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1970-last-day-where-you-can-still-cross](https://github.com/shudhanshu435/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shudhanshu435/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/shudhanshu435/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shudhanshu435/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/shudhanshu435/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/shudhanshu435/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -1667,6 +1668,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2201-valid-arrangement-of-pairs](https://github.com/shudhanshu435/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shudhanshu435/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shudhanshu435/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/shudhanshu435/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/shudhanshu435/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -2541,6 +2543,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0841-keys-and-rooms](https://github.com/shudhanshu435/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/shudhanshu435/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shudhanshu435/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shudhanshu435/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shudhanshu435/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shudhanshu435/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
@@ -2554,6 +2557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1559-detect-cycles-in-2d-grid](https://github.com/shudhanshu435/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/shudhanshu435/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shudhanshu435/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shudhanshu435/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shudhanshu435/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/shudhanshu435/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
