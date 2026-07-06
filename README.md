@@ -1476,6 +1476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/shudhanshu435/LeetCode/tree/master/0854-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shudhanshu435/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0886-possible-bipartition](https://github.com/shudhanshu435/LeetCode/tree/master/0886-possible-bipartition) |
 | [0945-snakes-and-ladders](https://github.com/shudhanshu435/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0965-univalued-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -1640,6 +1641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/shudhanshu435/LeetCode/tree/master/0854-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shudhanshu435/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0886-possible-bipartition](https://github.com/shudhanshu435/LeetCode/tree/master/0886-possible-bipartition) |
 | [0897-increasing-order-search-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/shudhanshu435/LeetCode/tree/master/0968-binary-tree-cameras) |
@@ -2549,6 +2551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/shudhanshu435/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shudhanshu435/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/shudhanshu435/LeetCode/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/shudhanshu435/LeetCode/tree/master/0886-possible-bipartition) |
 | [0997-find-the-town-judge](https://github.com/shudhanshu435/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shudhanshu435/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shudhanshu435/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -2562,6 +2565,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/shudhanshu435/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/shudhanshu435/LeetCode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/shudhanshu435/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/shudhanshu435/LeetCode/tree/master/0886-possible-bipartition) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shudhanshu435/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shudhanshu435/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/shudhanshu435/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
