@@ -1,43 +1,36 @@
 class Solution {
 public:
-    using p =pair<int,pair<int,int>>;
+    using p=tuple<int,int,int>;
     int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
-
         unordered_map<int,vector<pair<int,int>>>mp;
-        priority_queue<p,vector<p>,greater<p>>pq;
-
-        for(auto &f:flights){
-            int x=f[0];
-            int y=f[1];
-            int z=f[2];
-            mp[x].push_back({y,z});
+        for(auto i:flights){
+            mp[i[0]].push_back({i[1],i[2]});
         }
 
-        pq.push({0,{src,0}});
-        vector<int>vis(n,INT_MAX);
-        int ans=INT_MAX;
+        vector<vector<int>>dist(n,vector<int>(k+2,INT_MAX));
+        dist[src][0]=0;        
+        priority_queue<p,vector<p>,greater<p>>pq;
+        pq.push({0,src,0});
 
         while(!pq.empty()){
-            int c=pq.top().first;
-            int t=pq.top().second.first;
-            int s=pq.top().second.second;
+            int node=get<1>(pq.top());
+            int prc=get<0>(pq.top());
+            int kk=get<2>(pq.top());
             pq.pop();
-
-            if(t==dst)return c;
-            if(s>k)continue;
-
-            if(vis[t]<=s)continue;
-            vis[t]=s;
-
-            for(auto &i:mp[t]){
-                int next=i.first;
-                int price=i.second;
-
-                pq.push({c+price,{next,s+1}});
+            if(prc>dist[node][kk])continue;
+            if(kk==k+1)continue;
+            for(auto &i:mp[node]){
+                int x=i.first;
+                int y=i.second;
+                if(prc+y<dist[x][kk+1]){
+                    dist[x][kk+1]=prc+y;
+                    pq.push({prc+y,x,kk+1});
+                }
             }
+
         }
-
-        return -1;
-
+        int ans=INT_MAX;
+        for(int i=0;i<=k+1;i++)ans=min(ans,dist[dst][i]);
+        return (ans==INT_MAX)?-1:ans;
     }
 };
