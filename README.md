@@ -401,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/shudhanshu435/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3531-count-covered-buildings](https://github.com/shudhanshu435/LeetCode/tree/master/3531-count-covered-buildings) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/shudhanshu435/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/shudhanshu435/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -573,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3427-special-array-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3427-special-array-ii) |
 | [3453-separate-squares-i](https://github.com/shudhanshu435/LeetCode/tree/master/3453-separate-squares-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shudhanshu435/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/shudhanshu435/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/shudhanshu435/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/shudhanshu435/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -841,6 +843,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shudhanshu435/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/shudhanshu435/LeetCode/tree/master/3531-count-covered-buildings) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/shudhanshu435/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/shudhanshu435/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -2579,6 +2582,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shudhanshu435/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shudhanshu435/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shudhanshu435/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/shudhanshu435/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -2597,5 +2601,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1971-find-if-path-exists-in-graph](https://github.com/shudhanshu435/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shudhanshu435/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shudhanshu435/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/shudhanshu435/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/shudhanshu435/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
