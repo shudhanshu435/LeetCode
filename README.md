@@ -748,6 +748,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/shudhanshu435/LeetCode/tree/master/0926-find-and-replace-pattern) |
 | [0940-fruit-into-baskets](https://github.com/shudhanshu435/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/shudhanshu435/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/shudhanshu435/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-word-subsets](https://github.com/shudhanshu435/LeetCode/tree/master/0952-word-subsets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/shudhanshu435/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -1661,6 +1662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/shudhanshu435/LeetCode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0886-possible-bipartition](https://github.com/shudhanshu435/LeetCode/tree/master/0886-possible-bipartition) |
 | [0897-increasing-order-search-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0897-increasing-order-search-tree) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/shudhanshu435/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0965-univalued-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/shudhanshu435/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -2576,6 +2578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/shudhanshu435/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/shudhanshu435/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/shudhanshu435/LeetCode/tree/master/0886-possible-bipartition) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/shudhanshu435/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/shudhanshu435/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shudhanshu435/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/shudhanshu435/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -2593,6 +2596,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/shudhanshu435/LeetCode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/shudhanshu435/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/shudhanshu435/LeetCode/tree/master/0886-possible-bipartition) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/shudhanshu435/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shudhanshu435/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shudhanshu435/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/shudhanshu435/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
