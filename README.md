@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1970-last-day-where-you-can-still-cross](https://github.com/shudhanshu435/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1972-rotating-the-box](https://github.com/shudhanshu435/LeetCode/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/shudhanshu435/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shudhanshu435/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1983-maximum-population-year](https://github.com/shudhanshu435/LeetCode/tree/master/1983-maximum-population-year) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/shudhanshu435/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/shudhanshu435/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -1942,6 +1943,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/shudhanshu435/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/shudhanshu435/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/shudhanshu435/LeetCode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shudhanshu435/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/shudhanshu435/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/shudhanshu435/LeetCode/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/shudhanshu435/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -2522,6 +2524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/shudhanshu435/LeetCode/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shudhanshu435/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2083-three-divisors](https://github.com/shudhanshu435/LeetCode/tree/master/2083-three-divisors) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/shudhanshu435/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/shudhanshu435/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
