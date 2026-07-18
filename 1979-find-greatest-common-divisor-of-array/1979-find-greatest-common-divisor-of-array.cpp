@@ -1,7 +1,12 @@
 class Solution {
 public:
     int findGCD(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        return __gcd(nums[0],nums[nums.size()-1]);
+        int mini=INT_MAX;
+        int maxi=INT_MIN;
+        for(auto &i:nums){
+            mini=min(mini,i);
+            maxi=max(maxi,i);
+        }
+        return __gcd(mini,maxi);
     }
 };
