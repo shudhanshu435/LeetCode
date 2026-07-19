@@ -1,25 +1,26 @@
 class Solution {
 public:
     string smallestSubsequence(string s) {
-        vector<int>v(26,0);
-        int n=s.length();
-        for(int i=0;i<n;i++){
-            v[s[i]-'a']=i;
-        }
         stack<char>st;
-        vector<bool>vv(26,0);
-        for(int i=0;i<n;i++){
-            while(!st.empty() and st.top()>s[i]){
-                if(vv[s[i]-'a']==1)break;
-                if(i<v[st.top()-'a']){
-                    vv[st.top()-'a']=0;
+        unordered_map<char,int>mp;
+        for(auto i:s)mp[i]++;
+        vector<bool>vis(26,0);
+        for(auto i:s){
+            if(st.empty()){
+                st.push(i);
+                mp[i]--;
+                vis[i-'a']=1;
+            }
+            else{
+                mp[i]--;
+                if(vis[i-'a'])continue;
+                while(!st.empty() and st.top()>i and mp[st.top()]>0){
+                    vis[st.top()-'a']=0;
                     st.pop();
                 }
-                else break;
+                st.push(i);
+                vis[i-'a']=1;
             }
-            if(vv[s[i]-'a']==1)continue;
-            st.push(s[i]);
-            vv[s[i]-'a']=1;
         }
         string ans="";
         while(!st.empty()){
