@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/shudhanshu435/LeetCode/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/shudhanshu435/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/shudhanshu435/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/shudhanshu435/LeetCode/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0679-24-game](https://github.com/shudhanshu435/LeetCode/tree/master/0679-24-game) |
@@ -987,6 +988,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/shudhanshu435/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/shudhanshu435/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/shudhanshu435/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/shudhanshu435/LeetCode/tree/master/0645-set-mismatch) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/shudhanshu435/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0759-set-intersection-size-at-least-two](https://github.com/shudhanshu435/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
@@ -1912,6 +1914,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shudhanshu435/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0492-construct-the-rectangle](https://github.com/shudhanshu435/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0556-next-greater-element-iii](https://github.com/shudhanshu435/LeetCode/tree/master/0556-next-greater-element-iii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/shudhanshu435/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0679-24-game](https://github.com/shudhanshu435/LeetCode/tree/master/0679-24-game) |
