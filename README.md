@@ -1747,6 +1747,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-count-the-number-of-complete-components](https://github.com/shudhanshu435/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/shudhanshu435/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/shudhanshu435/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3249-count-the-number-of-good-nodes](https://github.com/shudhanshu435/LeetCode/tree/master/3249-count-the-number-of-good-nodes) |
 | [3310-remove-methods-from-project](https://github.com/shudhanshu435/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/shudhanshu435/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/shudhanshu435/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -2356,6 +2357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/shudhanshu435/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/shudhanshu435/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/shudhanshu435/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3249-count-the-number-of-good-nodes](https://github.com/shudhanshu435/LeetCode/tree/master/3249-count-the-number-of-good-nodes) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shudhanshu435/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/shudhanshu435/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/shudhanshu435/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
