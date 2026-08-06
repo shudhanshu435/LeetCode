@@ -2014,6 +2014,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3321-type-of-triangle](https://github.com/shudhanshu435/LeetCode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/shudhanshu435/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/shudhanshu435/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3373-maximum-prime-difference](https://github.com/shudhanshu435/LeetCode/tree/master/3373-maximum-prime-difference) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/shudhanshu435/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/shudhanshu435/LeetCode/tree/master/3433-count-mentions-per-user) |
@@ -2158,6 +2159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/shudhanshu435/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/shudhanshu435/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/shudhanshu435/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shudhanshu435/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/shudhanshu435/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
