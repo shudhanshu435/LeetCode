@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1091-shortest-path-in-binary-matrix](https://github.com/shudhanshu435/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/shudhanshu435/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1124-longest-well-performing-interval](https://github.com/shudhanshu435/LeetCode/tree/master/1124-longest-well-performing-interval) |
+| [1140-stone-game-ii](https://github.com/shudhanshu435/LeetCode/tree/master/1140-stone-game-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/shudhanshu435/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1200-minimum-absolute-difference](https://github.com/shudhanshu435/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1206-corporate-flight-bookings](https://github.com/shudhanshu435/LeetCode/tree/master/1206-corporate-flight-bookings) |
@@ -657,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/shudhanshu435/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/shudhanshu435/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1124-longest-well-performing-interval](https://github.com/shudhanshu435/LeetCode/tree/master/1124-longest-well-performing-interval) |
+| [1140-stone-game-ii](https://github.com/shudhanshu435/LeetCode/tree/master/1140-stone-game-ii) |
 | [1206-corporate-flight-bookings](https://github.com/shudhanshu435/LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [1281-can-make-palindrome-from-substring](https://github.com/shudhanshu435/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/shudhanshu435/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -1846,6 +1848,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-minimum-cost-for-tickets](https://github.com/shudhanshu435/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/shudhanshu435/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/shudhanshu435/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/shudhanshu435/LeetCode/tree/master/1140-stone-game-ii) |
 | [1170-shortest-common-supersequence](https://github.com/shudhanshu435/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/shudhanshu435/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1301-number-of-paths-with-max-score](https://github.com/shudhanshu435/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -1956,6 +1959,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-largest-perimeter-triangle](https://github.com/shudhanshu435/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1103-moving-stones-until-consecutive](https://github.com/shudhanshu435/LeetCode/tree/master/1103-moving-stones-until-consecutive) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
+| [1140-stone-game-ii](https://github.com/shudhanshu435/LeetCode/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/shudhanshu435/LeetCode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/shudhanshu435/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/shudhanshu435/LeetCode/tree/master/1390-four-divisors) |
@@ -2589,6 +2593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0292-nim-game](https://github.com/shudhanshu435/LeetCode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/shudhanshu435/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/shudhanshu435/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shudhanshu435/LeetCode/tree/master/1406-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Database
@@ -2703,9 +2708,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/shudhanshu435/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shudhanshu435/LeetCode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/shudhanshu435/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shudhanshu435/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
