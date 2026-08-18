@@ -401,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3453-separate-squares-i](https://github.com/shudhanshu435/LeetCode/tree/master/3453-separate-squares-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/shudhanshu435/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/shudhanshu435/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/shudhanshu435/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/shudhanshu435/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shudhanshu435/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/shudhanshu435/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -869,6 +870,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shudhanshu435/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/shudhanshu435/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/shudhanshu435/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/shudhanshu435/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/shudhanshu435/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/shudhanshu435/LeetCode/tree/master/3531-count-covered-buildings) |
