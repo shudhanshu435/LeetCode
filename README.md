@@ -357,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3036-number-of-subarrays-that-match-a-pattern-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shudhanshu435/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/shudhanshu435/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shudhanshu435/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/shudhanshu435/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/shudhanshu435/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/shudhanshu435/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -1408,6 +1409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2692-take-gifts-from-the-richest-pile](https://github.com/shudhanshu435/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/shudhanshu435/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shudhanshu435/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shudhanshu435/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/shudhanshu435/LeetCode/tree/master/3379-transformed-array) |
