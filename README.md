@@ -346,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2915-count-of-interesting-subarrays](https://github.com/shudhanshu435/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/shudhanshu435/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/shudhanshu435/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shudhanshu435/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/shudhanshu435/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/shudhanshu435/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shudhanshu435/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -1082,6 +1083,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2888-minimum-index-of-a-valid-split](https://github.com/shudhanshu435/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shudhanshu435/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/shudhanshu435/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shudhanshu435/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shudhanshu435/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/shudhanshu435/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -2740,6 +2742,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shudhanshu435/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/shudhanshu435/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shudhanshu435/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shudhanshu435/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shudhanshu435/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/shudhanshu435/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Minimum Spanning Tree
