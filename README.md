@@ -1131,6 +1131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/shudhanshu435/LeetCode/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/shudhanshu435/LeetCode/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/shudhanshu435/LeetCode/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/shudhanshu435/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/shudhanshu435/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/shudhanshu435/LeetCode/tree/master/0224-basic-calculator) |
@@ -1846,6 +1847,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/shudhanshu435/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/shudhanshu435/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/shudhanshu435/LeetCode/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/shudhanshu435/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/shudhanshu435/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/shudhanshu435/LeetCode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shudhanshu435/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
