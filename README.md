@@ -1164,6 +1164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0880-decoded-string-at-index](https://github.com/shudhanshu435/LeetCode/tree/master/0880-decoded-string-at-index) |
 | [0886-score-of-parentheses](https://github.com/shudhanshu435/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0926-find-and-replace-pattern](https://github.com/shudhanshu435/LeetCode/tree/master/0926-find-and-replace-pattern) |
+| [0940-distinct-subsequences-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/shudhanshu435/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/shudhanshu435/LeetCode/tree/master/0952-word-subsets) |
 | [0953-verifying-an-alien-dictionary](https://github.com/shudhanshu435/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -1877,6 +1878,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/shudhanshu435/LeetCode/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shudhanshu435/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/shudhanshu435/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-distinct-subsequences-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0968-binary-tree-cameras](https://github.com/shudhanshu435/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [0972-knight-dialer](https://github.com/shudhanshu435/LeetCode/tree/master/0972-knight-dialer) |
 | [0978-longest-turbulent-subarray](https://github.com/shudhanshu435/LeetCode/tree/master/0978-longest-turbulent-subarray) |
