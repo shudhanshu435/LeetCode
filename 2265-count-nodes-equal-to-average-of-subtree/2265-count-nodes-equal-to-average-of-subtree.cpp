@@ -1,4 +1,4 @@
-/**
+/*
  * Definition for a binary tree node.
  * struct TreeNode {
  *     int val;
@@ -11,18 +11,18 @@
  */
 class Solution {
 public:
-    int ans=0;
-    pair<int,int> dfs(TreeNode* root){
-        if(!root)return {0,0};
-        pair<int,int> l=dfs(root->left);
-        pair<int,int> r=dfs(root->right);
-        int ele=l.second+r.second+1;
-        int val=l.first+r.first;
-        if((val+root->val)/ele == root->val)ans++;
-        return {val+root->val,ele};
+    pair<int,int> dfs(TreeNode* root, int &ans){
+        if(!root)return {-1,0};
+        auto [l,c]=dfs(root->left,ans);
+        auto [r,d]=dfs(root->right,ans);
+        if(l==-1)l=0;
+        if(r==-1)r=0;
+        if((l+r+root->val)/(c+d+1) == root->val)ans++;
+        return {l+r+root->val,c+d+1};
     }
     int averageOfSubtree(TreeNode* root) {
-        dfs(root);
+        int ans=0;
+        dfs(root,ans);
         return ans;
     }
 };
