@@ -423,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/shudhanshu435/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/shudhanshu435/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3531-count-covered-buildings](https://github.com/shudhanshu435/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shudhanshu435/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1954,6 +1955,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/shudhanshu435/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3494-minimum-cost-for-cutting-cake-i](https://github.com/shudhanshu435/LeetCode/tree/master/3494-minimum-cost-for-cutting-cake-i) |
+| [3524-find-x-value-of-array-i](https://github.com/shudhanshu435/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/shudhanshu435/LeetCode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -2089,6 +2091,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/shudhanshu435/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/shudhanshu435/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/shudhanshu435/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shudhanshu435/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3548-find-the-count-of-good-integers](https://github.com/shudhanshu435/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/shudhanshu435/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
