@@ -196,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shudhanshu435/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1646-kth-missing-positive-number](https://github.com/shudhanshu435/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/shudhanshu435/LeetCode/tree/master/1656-count-good-triplets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shudhanshu435/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shudhanshu435/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shudhanshu435/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shudhanshu435/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -512,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/shudhanshu435/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shudhanshu435/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shudhanshu435/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shudhanshu435/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1755-defuse-the-bomb](https://github.com/shudhanshu435/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/shudhanshu435/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1871-jump-game-vii](https://github.com/shudhanshu435/LeetCode/tree/master/1871-jump-game-vii) |
@@ -575,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shudhanshu435/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-path-with-minimum-effort](https://github.com/shudhanshu435/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [1646-kth-missing-positive-number](https://github.com/shudhanshu435/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shudhanshu435/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/shudhanshu435/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/shudhanshu435/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/shudhanshu435/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -690,6 +693,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1537-maximum-score-after-splitting-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/shudhanshu435/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/shudhanshu435/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shudhanshu435/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shudhanshu435/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/shudhanshu435/LeetCode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/shudhanshu435/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -826,6 +830,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1502-construct-k-palindrome-strings](https://github.com/shudhanshu435/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shudhanshu435/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/shudhanshu435/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shudhanshu435/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shudhanshu435/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1813-maximum-erasure-value](https://github.com/shudhanshu435/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shudhanshu435/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
