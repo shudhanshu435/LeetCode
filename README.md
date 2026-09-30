@@ -1199,6 +1199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shudhanshu435/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/shudhanshu435/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shudhanshu435/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/shudhanshu435/LeetCode/tree/master/1133-last-substring-in-lexicographical-order) |
 | [1156-occurrences-after-bigram](https://github.com/shudhanshu435/LeetCode/tree/master/1156-occurrences-after-bigram) |
 | [1160-letter-tile-possibilities](https://github.com/shudhanshu435/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -1688,6 +1689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shudhanshu435/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/shudhanshu435/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shudhanshu435/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1124-longest-well-performing-interval](https://github.com/shudhanshu435/LeetCode/tree/master/1124-longest-well-performing-interval) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shudhanshu435/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shudhanshu435/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -2832,6 +2834,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shudhanshu435/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shudhanshu435/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shudhanshu435/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
