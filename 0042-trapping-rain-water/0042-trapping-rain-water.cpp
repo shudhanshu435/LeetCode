@@ -1,30 +1,23 @@
 class Solution {
 public:
-    int trap(vector<int>& h) {
-        int n=h.size();
-        vector<int>p(n),s(n);
-        p[0]=h[0];
+    int trap(vector<int>& height) {
+        int n=height.size();
+        vector<int>ml(n,0),mr(n,0);
+        ml[0]=height[0];
         for(int i=1;i<n;i++){
-            p[i]=max(h[i],p[i-1]);
+            ml[i]=max(ml[i-1],height[i]);
         }
-        s[n-1]=h[n-1];
+        mr[n-1]=height[n-1];
         for(int i=n-2;i>=0;i--){
-            s[i]=max(h[i],s[i+1]);
+            mr[i]=max(mr[i+1],height[i]);
         }
+
         int ans=0;
-        for(int i=0;i<n;i++){
-            ans+=min(p[i],s[i])-h[i];
+        for(int i=1;i<n-1;i++){
+            ans+=max(0,min(ml[i-1],mr[i+1])-height[i]);
         }
         return ans;
     }
 };
 
-
-/*
-
-
-0 1 0 2 1 0 1 3 2 1 2 1
-0 1 1 2 2 2 2 3 3 3 3 3
-3 3 3 3 3 3 3 3 2 2 2 1
-
-*/
+// 0 1 0 2 1 0 1 3 2 1 2 1
