@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1813-maximum-erasure-value](https://github.com/shudhanshu435/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/shudhanshu435/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/shudhanshu435/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/shudhanshu435/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/shudhanshu435/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1840-maximum-building-height](https://github.com/shudhanshu435/LeetCode/tree/master/1840-maximum-building-height) |
@@ -1519,6 +1520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1727-largest-submatrix-with-rearrangements](https://github.com/shudhanshu435/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/shudhanshu435/LeetCode/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/shudhanshu435/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/shudhanshu435/LeetCode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/shudhanshu435/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/shudhanshu435/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shudhanshu435/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
