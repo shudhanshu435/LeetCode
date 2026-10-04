@@ -2,19 +2,20 @@ class Solution {
 public:
     int trap(vector<int>& height) {
         int n=height.size();
-        vector<int>ml(n,0),mr(n,0);
-        ml[0]=height[0];
-        for(int i=1;i<n;i++){
-            ml[i]=max(ml[i-1],height[i]);
-        }
-        mr[n-1]=height[n-1];
-        for(int i=n-2;i>=0;i--){
-            mr[i]=max(mr[i+1],height[i]);
-        }
-
+        int l=0,r=n-1;
         int ans=0;
-        for(int i=1;i<n-1;i++){
-            ans+=max(0,min(ml[i-1],mr[i+1])-height[i]);
+        int lm=0,rm=0;
+        while(l<r){
+            if(height[l]<=height[r]){
+                if(lm<=height[l])lm=height[l];
+                else ans+=lm-height[l];
+                l++;
+            }
+            else{
+                if(rm<=height[r])rm=height[r];
+                else ans+=rm-height[r];
+                r--;
+            }
         }
         return ans;
     }
