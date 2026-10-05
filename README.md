@@ -2867,4 +2867,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shudhanshu435/LeetCode/tree/master/0056-merge-intervals) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shudhanshu435/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
