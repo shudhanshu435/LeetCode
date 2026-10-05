@@ -1196,6 +1196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0808-number-of-matching-subsequences](https://github.com/shudhanshu435/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0837-most-common-word](https://github.com/shudhanshu435/LeetCode/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/shudhanshu435/LeetCode/tree/master/0841-shortest-distance-to-a-character) |
+| [0856-score-of-parentheses](https://github.com/shudhanshu435/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0868-push-dominoes](https://github.com/shudhanshu435/LeetCode/tree/master/0868-push-dominoes) |
 | [0880-decoded-string-at-index](https://github.com/shudhanshu435/LeetCode/tree/master/0880-decoded-string-at-index) |
 | [0886-score-of-parentheses](https://github.com/shudhanshu435/LeetCode/tree/master/0886-score-of-parentheses) |
@@ -1699,6 +1700,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/shudhanshu435/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/shudhanshu435/LeetCode/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/shudhanshu435/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0856-score-of-parentheses](https://github.com/shudhanshu435/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/shudhanshu435/LeetCode/tree/master/0880-decoded-string-at-index) |
 | [0886-score-of-parentheses](https://github.com/shudhanshu435/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0897-increasing-order-search-tree) |
@@ -2857,6 +2859,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shudhanshu435/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/shudhanshu435/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/shudhanshu435/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shudhanshu435/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shudhanshu435/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shudhanshu435/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
