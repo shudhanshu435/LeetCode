@@ -1172,6 +1172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/shudhanshu435/LeetCode/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/shudhanshu435/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/shudhanshu435/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/shudhanshu435/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/shudhanshu435/LeetCode/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shudhanshu435/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -1594,6 +1595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/shudhanshu435/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/shudhanshu435/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0407-trapping-rain-water-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shudhanshu435/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/shudhanshu435/LeetCode/tree/master/0429-n-ary-tree-level-order-traversal) |
@@ -2179,6 +2181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/shudhanshu435/LeetCode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/shudhanshu435/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/shudhanshu435/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/shudhanshu435/LeetCode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/shudhanshu435/LeetCode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/shudhanshu435/LeetCode/tree/master/0679-24-game) |
