@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/shudhanshu435/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shudhanshu435/LeetCode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/shudhanshu435/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/shudhanshu435/LeetCode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0221-maximal-square](https://github.com/shudhanshu435/LeetCode/tree/master/0221-maximal-square) |
@@ -1915,6 +1916,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/shudhanshu435/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shudhanshu435/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shudhanshu435/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/shudhanshu435/LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/shudhanshu435/LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/shudhanshu435/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0313-super-ugly-number](https://github.com/shudhanshu435/LeetCode/tree/master/0313-super-ugly-number) |
