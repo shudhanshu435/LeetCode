@@ -690,6 +690,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/shudhanshu435/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3678-design-task-manager](https://github.com/shudhanshu435/LeetCode/tree/master/3678-design-task-manager) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shudhanshu435/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1351,6 +1352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shudhanshu435/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shudhanshu435/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3905-partition-string](https://github.com/shudhanshu435/LeetCode/tree/master/3905-partition-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shudhanshu435/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -1759,6 +1761,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/shudhanshu435/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/shudhanshu435/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shudhanshu435/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -2827,6 +2830,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3310-remove-methods-from-project](https://github.com/shudhanshu435/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shudhanshu435/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shudhanshu435/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shudhanshu435/LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Union-Find
 |  |
 | ------- |
