@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shudhanshu435/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/shudhanshu435/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shudhanshu435/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shudhanshu435/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/shudhanshu435/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/shudhanshu435/LeetCode/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/shudhanshu435/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -586,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/shudhanshu435/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/shudhanshu435/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shudhanshu435/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shudhanshu435/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shudhanshu435/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shudhanshu435/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shudhanshu435/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -1007,6 +1009,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1019-squares-of-a-sorted-array](https://github.com/shudhanshu435/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1023-camelcase-matching](https://github.com/shudhanshu435/LeetCode/tree/master/1023-camelcase-matching) |
 | [1133-last-substring-in-lexicographical-order](https://github.com/shudhanshu435/LeetCode/tree/master/1133-last-substring-in-lexicographical-order) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shudhanshu435/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shudhanshu435/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/shudhanshu435/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/shudhanshu435/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -1083,6 +1086,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/shudhanshu435/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/shudhanshu435/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shudhanshu435/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shudhanshu435/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shudhanshu435/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/shudhanshu435/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shudhanshu435/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
