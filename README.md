@@ -345,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shudhanshu435/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/shudhanshu435/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2742-painting-the-walls](https://github.com/shudhanshu435/LeetCode/tree/master/2742-painting-the-walls) |
+| [2747-count-zero-request-servers](https://github.com/shudhanshu435/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/shudhanshu435/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/shudhanshu435/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/shudhanshu435/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -542,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shudhanshu435/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/shudhanshu435/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/shudhanshu435/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2747-count-zero-request-servers](https://github.com/shudhanshu435/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/shudhanshu435/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/shudhanshu435/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/shudhanshu435/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -894,6 +896,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2689-rearranging-fruits](https://github.com/shudhanshu435/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/shudhanshu435/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/shudhanshu435/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2747-count-zero-request-servers](https://github.com/shudhanshu435/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/shudhanshu435/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2777-find-the-distinct-difference-array](https://github.com/shudhanshu435/LeetCode/tree/master/2777-find-the-distinct-difference-array) |
 | [2784-check-if-array-is-good](https://github.com/shudhanshu435/LeetCode/tree/master/2784-check-if-array-is-good) |
@@ -1126,6 +1129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2689-rearranging-fruits](https://github.com/shudhanshu435/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/shudhanshu435/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/shudhanshu435/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2747-count-zero-request-servers](https://github.com/shudhanshu435/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/shudhanshu435/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/shudhanshu435/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
