@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/shudhanshu435/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/shudhanshu435/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/shudhanshu435/LeetCode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/shudhanshu435/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shudhanshu435/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shudhanshu435/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shudhanshu435/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -576,6 +577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/shudhanshu435/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shudhanshu435/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/shudhanshu435/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/shudhanshu435/LeetCode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/shudhanshu435/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shudhanshu435/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -798,6 +800,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/shudhanshu435/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/shudhanshu435/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/shudhanshu435/LeetCode/tree/master/0268-missing-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shudhanshu435/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/shudhanshu435/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shudhanshu435/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -1063,6 +1066,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/shudhanshu435/LeetCode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/shudhanshu435/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shudhanshu435/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/shudhanshu435/LeetCode/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0368-largest-divisible-subset](https://github.com/shudhanshu435/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -2068,6 +2072,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/shudhanshu435/LeetCode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/shudhanshu435/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/shudhanshu435/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/shudhanshu435/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/shudhanshu435/LeetCode/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/shudhanshu435/LeetCode/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/shudhanshu435/LeetCode/tree/master/0326-power-of-three) |
@@ -2245,6 +2250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/shudhanshu435/LeetCode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/shudhanshu435/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/shudhanshu435/LeetCode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/shudhanshu435/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shudhanshu435/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/shudhanshu435/LeetCode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/shudhanshu435/LeetCode/tree/master/0401-binary-watch) |
